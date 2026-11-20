@@ -1,0 +1,72 @@
+.footer {
+  margin-top: var(--space-3xl);
+  background: var(--ink);
+  color: rgb(255 255 255 / 0.78);
+  font-size: var(--step--1);
+}
+
+.inner {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+  gap: var(--space-xl);
+  max-width: var(--content);
+  margin: 0 auto;
+  padding: var(--space-2xl) var(--gutter) var(--space-xl);
+  /* five faint staff lines across the footer */
+  background-image: repeating-linear-gradient(
+    to bottom,
+    transparent 0 23px,
+    rgb(255 255 255 / 0.05) 23px 24px
+  );
+  background-size: 100% 120px;
+  background-repeat: no-repeat;
+}
+
+.who p + p {
+  margin-top: var(--space-s);
+}
+
+.name {
+  font-family: var(--font-display);
+  font-size: var(--step-1);
+  font-weight: 600;
+  color: var(--key-white);
+}
+
+.course {
+  color: rgb(255 255 255 / 0.55);
+}
+
+.pages ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  columns: 2;
+  column-gap: var(--space-l);
+}
+
+.pages li + li {
+  margin-top: 0.35rem;
+}
+
+.pages a {
+  color: rgb(255 255 255 / 0.78);
+  text-decoration: none;
+}
+
+.pages a:hover {
+  color: var(--key-white);
+  text-decoration: underline;
+}
+
+.pages a[aria-current='page'] {
+  color: var(--key-white);
+  box-shadow: inset 3px 0 0 var(--phuong);
+  padding-left: 0.55rem;
+}
+
+@media (max-width: 40rem) {
+  .inner {
+    grid-template-columns: 1fr;
+  }
+}

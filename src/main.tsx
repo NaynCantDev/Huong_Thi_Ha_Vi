@@ -9,10 +9,13 @@ import '@fontsource/be-vietnam-pro/vietnamese-400-italic.css'
 import '@fontsource/be-vietnam-pro/vietnamese-600.css'
 import './styles/tokens.css'
 import './styles/base.css'
+import { BrowserRouter } from 'react-router'
 import App from './App.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
   </StrictMode>,
 )
