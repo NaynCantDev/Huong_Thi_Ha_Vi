@@ -1,0 +1,932 @@
+[
+ {
+  "type": "heading",
+  "level": 1,
+  "id": "bai-6-an-toan-va-liem-chinh-hoc-thuat-trong-moi-truong-so",
+  "c": [
+   {
+    "t": "text",
+    "v": "BÀI 6: AN TOÀN VÀ LIÊM CHÍNH HỌC THUẬT TRONG MÔI TRƯỜNG SỐ"
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 2,
+  "id": "i-phan-tich-ve-viec-su-dung-ai-trong-giao-duc-dai-hoc",
+  "c": [
+   {
+    "t": "text",
+    "v": "I. PHÂN TÍCH VỀ VIỆC SỬ DỤNG AI TRONG GIÁO DỤC ĐẠI HỌC"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "AI ngày càng được ứng dụng rộng rãi trong giáo dục, hỗ trợ sinh viên tìm kiếm thông tin, xây dựng nội dung, thiết kế bài giảng và nâng cao hiệu quả học tập. Đối với ngành Sư phạm Âm nhạc, AI có thể hỗ trợ tạo học liệu, trò chơi, bản đệm và đề xuất phương pháp dạy học phù hợp với học sinh."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Tuy nhiên, việc sử dụng AI cần đảm bảo một số nguyên tắc:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Ứng dụng đúng mục đích:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Sử dụng AI để hỗ trợ học tập, tìm kiếm ý tưởng và xây dựng bài giảng."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Trung thực học thuật:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Không sao chép nguyên văn nội dung AI để thay thế tư duy của bản thân."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Minh bạch:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Ghi nhận việc sử dụng AI trong quá trình thực hiện bài tập."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Kiểm chứng thông tin:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Kiểm tra tính chính xác của nội dung trước khi sử dụng."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Bảo vệ dữ liệu:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Không cung cấp thông tin cá nhân hoặc dữ liệu nhạy cảm cho AI."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Sử dụng AI có trách nhiệm giúp sinh viên phát triển tư duy phản biện, khả năng sáng tạo và năng lực công nghệ."
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 2,
+  "id": "ii-mo-ta-qua-trinh-thuc-hanh-nhiem-vu-hoc-tap-co-ai-ho-tro",
+  "c": [
+   {
+    "t": "text",
+    "v": "II. MÔ TẢ QUÁ TRÌNH THỰC HÀNH NHIỆM VỤ HỌC TẬP CÓ AI HỖ TRỢ"
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "nhiem-vu-lua-chon",
+  "c": [
+   {
+    "t": "text",
+    "v": "Nhiệm vụ lựa chọn"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Tìm hiểu chủ đề: "
+   },
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Ứng dụng trí tuệ nhân tạo (AI) trong dạy học Âm nhạc ở Tiểu học."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "1-ghi-lai-cac-prompt-da-su-dung",
+  "c": [
+   {
+    "t": "text",
+    "v": "1. Ghi lại các Prompt đã sử dụng"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Prompt 1:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Hãy trình bày tổng quan về ứng dụng AI trong dạy học Âm nhạc ở Tiểu học, gồm vai trò, lợi ích, hạn chế và ví dụ thực tế."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Prompt 2:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Phân tích các ứng dụng AI trong dạy hát, nghe nhạc, đọc nhạc, nhạc cụ, vận động và sáng tạo âm nhạc cho học sinh lớp 1–5."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Prompt 3:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Đề xuất các hoạt động dạy học Âm nhạc có ứng dụng AI phù hợp với học sinh Tiểu học, nêu mục tiêu và cách tổ chức."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Prompt 4:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Đề xuất giải pháp sử dụng AI an toàn, hiệu quả và có trách nhiệm trong dạy học Âm nhạc ở Tiểu học."
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "2-ghi-lai-dau-ra-cua-ai",
+  "c": [
+   {
+    "t": "text",
+    "v": "2. Ghi lại đầu ra của AI"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Ứng dụng AI trong dạy học Âm nhạc ở Tiểu học"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "AI có thể hỗ trợ giáo viên xây dựng bài giảng, tạo học liệu và tổ chức các hoạt động âm nhạc sinh động, phù hợp với đặc điểm học sinh tiểu học."
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Dạy hát:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Tạo bản đệm, điều chỉnh tốc độ, gợi ý động tác minh họa và hình ảnh bài hát."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Nghe nhạc:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Tạo trò chơi nhận biết nhạc cụ, âm thanh, tiết tấu và cao độ."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Đọc nhạc:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Hỗ trợ tạo bài tập tiết tấu, phát âm thanh từ bản nhạc và luyện đọc nhạc."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Học nhạc cụ:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Tạo bản đệm chậm, hỗ trợ luyện tập từng đoạn."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Vận động theo nhạc:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Gợi ý động tác, trò chơi và hình thức biểu diễn."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Sáng tạo âm nhạc:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Gợi ý lời ca, tiết tấu và ý tưởng sáng tác đơn giản."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Kiểm tra, đánh giá:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Hỗ trợ tạo câu hỏi, phiếu học tập và trò chơi ôn tập."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Ví dụ hoạt động:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Trò chơi “Đoán nhạc cụ” dành cho học sinh lớp 3. Giáo viên chuẩn bị âm thanh piano, guitar, sáo, trống; lần lượt phát âm thanh để học sinh nghe, đoán tên nhạc cụ và giơ thẻ đáp án. Sau đó giáo viên giới thiệu hình ảnh, đặc điểm âm thanh và nhận xét kết quả."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Lợi ích:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Tăng hứng thú học tập, tiết kiệm thời gian chuẩn bị học liệu, đa dạng hoạt động, hỗ trợ luyện tập và phát triển khả năng sáng tạo."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Hạn chế:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " AI có thể cung cấp thông tin sai, yêu cầu thiết bị và Internet, khiến học sinh phụ thuộc công nghệ hoặc giảm thời gian thực hành trực tiếp."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Giải pháp:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Giáo viên kiểm tra nội dung AI, lựa chọn công cụ phù hợp, hướng dẫn học sinh sử dụng an toàn và kết hợp công nghệ với ca hát, vận động, biểu diễn thực tế."
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "3-danh-gia-va-chinh-sua-dau-ra-ai",
+  "c": [
+   {
+    "t": "text",
+    "v": "3. Đánh giá và chỉnh sửa đầu ra AI"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Nội dung AI cung cấp có bố cục rõ ràng, nhiều ý tưởng và ví dụ phù hợp với hoạt động dạy học Âm nhạc ở Tiểu học. Tuy nhiên, một số nội dung còn khái quát, cần điều chỉnh theo từng khối lớp và kiểm tra tính chính xác."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Em đã chọn lọc, bổ sung ví dụ thực tế, điều chỉnh cách diễn đạt và nhấn mạnh vai trò của giáo viên, hoạt động thực hành cũng như sự sáng tạo của học sinh."
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "4-trich-dan-viec-su-dung-ai",
+  "c": [
+   {
+    "t": "text",
+    "v": "4. Trích dẫn việc sử dụng AI"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Em sử dụng ChatGPT (OpenAI) để hỗ trợ tìm kiếm ý tưởng, xây dựng bố cục, đề xuất hoạt động dạy học và chỉnh sửa nội dung. Các kết quả được đọc, chọn lọc và điều chỉnh trước khi đưa vào bài. Em chịu trách nhiệm đối với nội dung cuối cùng của bài làm."
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 2,
+  "id": "iii-phan-tich-cac-van-de-dao-duc-va-trach-nhiem-khi-su-dung-ai",
+  "c": [
+   {
+    "t": "text",
+    "v": "III. PHÂN TÍCH CÁC VẤN ĐỀ ĐẠO ĐỨC VÀ TRÁCH NHIỆM KHI SỬ DỤNG AI"
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "1-ranh-gioi-giua-ho-tro-va-thay-the-tu-duy",
+  "c": [
+   {
+    "t": "text",
+    "v": "1. Ranh giới giữa hỗ trợ và thay thế tư duy"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "AI giúp tìm kiếm ý tưởng và giải thích kiến thức, nhưng người học không nên phụ thuộc hoặc sao chép toàn bộ nội dung. Sinh viên cần chủ động phân tích, thực hành và đưa ra quan điểm cá nhân. Đối với Sư phạm Âm nhạc, khả năng cảm thụ, biểu diễn, sáng tạo và tổ chức hoạt động cần được rèn luyện thực tế."
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "2-quyen-so-huu-tri-tue-va-ban-quyen",
+  "c": [
+   {
+    "t": "text",
+    "v": "2. Quyền sở hữu trí tuệ và bản quyền"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Cần tôn trọng quyền tác giả đối với bài hát, bản nhạc, hình ảnh và tài liệu sử dụng trong học tập. Không sao chép hoặc sử dụng trái phép sản phẩm của người khác. Khi sử dụng AI hỗ trợ sáng tạo, cần chú ý bản quyền và minh bạch về mức độ hỗ trợ."
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "3-tac-dong-den-hoc-tap-va-chat-luong-san-pham",
+  "c": [
+   {
+    "t": "text",
+    "v": "3. Tác động đến học tập và chất lượng sản phẩm"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "AI giúp tiết kiệm thời gian, hỗ trợ tự học và tạo nhiều ý tưởng mới. Tuy nhiên, việc phụ thuộc AI có thể làm giảm tư duy độc lập và khả năng sáng tạo. Trong dạy học Âm nhạc ở Tiểu học, sử dụng công nghệ quá nhiều còn có thể làm giảm thời gian ca hát, vận động và tương tác trực tiếp. Vì vậy, cần sử dụng AI hợp lý, kiểm chứng thông tin và kết hợp với thực hành."
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 2,
+  "id": "iv-bo-nguyen-tac-ca-nhan-khi-su-dung-ai",
+  "c": [
+   {
+    "t": "text",
+    "v": "IV. BỘ NGUYÊN TẮC CÁ NHÂN KHI SỬ DỤNG AI"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": true,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Sử dụng AI đúng mục đích học tập."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Không phụ thuộc hoàn toàn vào AI."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Kiểm chứng thông tin trước khi sử dụng."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Trung thực và minh bạch trong học thuật."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Tôn trọng bản quyền tài liệu và tác phẩm."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Bảo vệ dữ liệu cá nhân."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Chủ động kiểm soát và chỉnh sửa kết quả."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Sử dụng AI để phát triển tư duy và sáng tạo."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 2,
+  "id": "v-thiet-ke-infographic-su-dung-ai-co-trach-nhiem",
+  "c": [
+   {
+    "t": "text",
+    "v": "V. THIẾT KẾ INFOGRAPHIC: SỬ DỤNG AI CÓ TRÁCH NHIỆM"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "8 nguyên tắc sử dụng AI an toàn:"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Đúng mục đích."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Chủ động tư duy."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Kiểm chứng thông tin."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Trung thực học thuật."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Tôn trọng bản quyền."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Bảo vệ dữ liệu."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Kiểm soát nội dung."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Phát triển sáng tạo."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Thông điệp:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " AI là công cụ hỗ trợ – Con người là chủ thể tư duy, sáng tạo và chịu trách nhiệm."
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 2,
+  "id": "vi-ket-luan",
+  "c": [
+   {
+    "t": "text",
+    "v": "VI. KẾT LUẬN"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Qua bài tập, em nhận thấy AI mang lại nhiều cơ hội trong học tập và giảng dạy Âm nhạc ở Tiểu học. AI có thể hỗ trợ giáo viên xây dựng học liệu, tạo bản đệm, trò chơi, câu hỏi và hoạt động sáng tạo, góp phần làm giờ học sinh động, hấp dẫn hơn."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Tuy nhiên, việc sử dụng AI cần đảm bảo tính trung thực, kiểm chứng thông tin, tôn trọng bản quyền và bảo vệ dữ liệu học sinh. AI không thể thay thế vai trò của giáo viên, cảm xúc nghệ thuật và trải nghiệm thực hành âm nhạc trực tiếp."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Em sẽ sử dụng AI như một công cụ hỗ trợ học tập và phát triển nghề nghiệp, đồng thời giữ vững tinh thần tự học, tư duy độc lập, sáng tạo và trách nhiệm trong công việc giảng dạy Âm nhạc ở Tiểu học sau này."
+   }
+  ]
+ }
+]

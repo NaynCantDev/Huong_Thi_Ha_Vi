@@ -1,0 +1,1012 @@
+[
+ {
+  "type": "heading",
+  "level": 1,
+  "id": "bai-3",
+  "c": [
+   {
+    "t": "text",
+    "v": "Bài 3"
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "chuong-3-tong-quan-ve-tri-tue-nhan-tao",
+  "c": [
+   {
+    "t": "text",
+    "v": "Chương 3: Tổng quan về trí tuệ nhân tạo"
+   }
+  ],
+  "align": "center"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Viết Prompt hiệu quả cho các tác vụ học tập"
+   }
+  ],
+  "align": "center"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "I. Mục tiêu:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Phát triển kỹ năng viết Prompt hiệu quả để tận dụng tối đa khả năng của các mô hình ngôn ngữ lớn"
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "ii-yeu-cau",
+  "c": [
+   {
+    "t": "text",
+    "v": "II. Yêu cầu:"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "1. Chọn 3 tác vụ học tập phổ biến"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Tóm tắt nội dung:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Tóm tắt kiến thức về các phương pháp luyện tập piano hiệu quả cho người mới bắt đầu."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Giải thích kiến thức:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Giải thích khái niệm gam, hợp âm và luyện ngón piano."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Tạo câu hỏi ôn tập:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Tạo 5 câu hỏi trắc nghiệm về kỹ thuật piano cơ bản."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "2. Cho mỗi tác vụ, viết 3 phiên bản prompt khác nhau"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "- Tác vụ 1: Tóm tắt nội dung"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "a. Prompt cơ bản:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Tóm tắt các phương pháp luyện tập piano hiệu quả cho người mới bắt đầu."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "b. Prompt cải tiến:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Hãy tóm tắt các phương pháp luyện tập piano hiệu quả cho người mới bắt đầu, trình bày thành 5 ý ngắn gọn, dễ hiểu."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "c. Prompt nâng cao:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Bạn là giáo viên piano. Hãy phân tích các phương pháp luyện tập piano hiệu quả dành cho người mới bắt đầu, tập trung vào tư thế ngồi, luyện ngón, đọc bản nhạc, phối hợp hai tay và duy trì thói quen luyện tập. Trình bày cụ thể, dễ hiểu và có ví dụ minh họa."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "- Tác vụ 2: Giải thích kiến thức"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "a. Prompt cơ bản:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Giải thích khái niệm gam, hợp âm và luyện ngón piano."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "b. Prompt cải tiến:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Hãy giải thích khái niệm gam, hợp âm và luyện ngón piano bằng ngôn ngữ đơn giản, dễ hiểu, kèm ví dụ cụ thể."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "c. Prompt nâng cao:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Bạn là giáo viên piano. Hãy giải thích gam, hợp âm và kỹ thuật luyện ngón cho người mới học piano, trình bày rõ đặc điểm, cách thực hiện và ví dụ minh họa trên đàn để người học dễ hiểu và áp dụng."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "- Tác vụ 3: Tạo câu hỏi ôn tập"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "a. Prompt cơ bản:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Tạo 5 câu hỏi về kiến thức piano cơ bản."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "b. Prompt cải tiến:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Tạo 5 câu hỏi trắc nghiệm về gam, hợp âm và kỹ thuật luyện ngón piano."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "c. Prompt nâng cao:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Đóng vai giáo viên piano, hãy tạo 5 câu hỏi trắc nghiệm về kiến thức và kỹ thuật piano cơ bản dành cho người mới học. Mỗi câu có 4 đáp án A, B, C, D, kèm đáp án đúng và giải thích ngắn gọn."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "3. Thử nghiệm cac Prompt với một công cụ AI và so sánh kết quả"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "-Tác vụ 1"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "a) Prompt cơ bản:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Tóm tắt các phương pháp luyện tập piano hiệu quả cho người mới bắt đầu."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "image",
+  "key": "bai-3/01-tac-vu-1-co-ban",
+  "alt": "Tác vụ 1 – kết quả prompt cơ bản"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "b. Prompt cải tiến:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Hãy tóm tắt các phương pháp luyện tập piano hiệu quả cho người mới bắt đầu, trình bày thành 5 ý ngắn gọn, dễ hiểu."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "image",
+  "key": "bai-3/02-tac-vu-1-cai-tien",
+  "alt": "Tác vụ 1 – kết quả prompt cải tiến"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "c. Prompt nâng cao:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Bạn là giáo viên piano. Hãy phân tích các phương pháp luyện tập piano hiệu quả dành cho người mới bắt đầu, tập trung vào tư thế ngồi, luyện ngón, đọc bản nhạc, phối hợp hai tay và duy trì thói quen luyện tập. Trình bày cụ thể, dễ hiểu và có ví dụ minh họa."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "image",
+  "key": "bai-3/03-tac-vu-1-nang-cao",
+  "alt": "Tác vụ 1 – kết quả prompt nâng cao"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "-Tác vụ 2"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "a. Prompt cơ bản:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Giải thích khái niệm gam, hợp âm và luyện ngón piano."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "image",
+  "key": "bai-3/04-tac-vu-2-co-ban",
+  "alt": "Tác vụ 2 – kết quả prompt cơ bản"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "b. Prompt cải tiến:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Hãy giải thích khái niệm gam, hợp âm và luyện ngón piano bằng ngôn ngữ đơn giản, dễ hiểu, kèm ví dụ cụ thể."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "image",
+  "key": "bai-3/05-tac-vu-2-cai-tien",
+  "alt": "Tác vụ 2 – kết quả prompt cải tiến"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "c. Prompt nâng cao:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Bạn là giáo viên piano. Hãy giải thích gam, hợp âm và kỹ thuật luyện ngón cho người mới học piano, trình bày rõ đặc điểm, cách thực hiện và ví dụ minh họa trên đàn để người học dễ hiểu và áp dụng."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "image",
+  "key": "bai-3/06-tac-vu-2-nang-cao",
+  "alt": "Tác vụ 2 – kết quả prompt nâng cao"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "-Tác vụ 3"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "a. Prompt cơ bản:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Tạo 5 câu hỏi về kiến thức piano cơ bản."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "image",
+  "key": "bai-3/07-tac-vu-3-co-ban",
+  "alt": "Tác vụ 3 – kết quả prompt cơ bản"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "b. Prompt cải tiến:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Tạo 5 câu hỏi trắc nghiệm về gam, hợp âm và kỹ thuật luyện ngón piano."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "image",
+  "key": "bai-3/08-tac-vu-3-cai-tien",
+  "alt": "Tác vụ 3 – kết quả prompt cải tiến"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "c. Prompt nâng cao:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Đóng vai giáo viên piano, hãy tạo 5 câu hỏi trắc nghiệm về kiến thức và kỹ thuật piano cơ bản dành cho người mới học. Mỗi câu có 4 đáp án A, B, C, D, kèm đáp án đúng và giải thích ngắn gọn."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "image",
+  "key": "bai-3/09-tac-vu-3-nang-cao",
+  "alt": "Tác vụ 3 – kết quả prompt nâng cao"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "4. Phân tích lý do tại sao một số Prompt hiệu quả hơn"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Qua quá trình thử nghiệm 3 phiên bản Prompt về kiến thức và kỹ thuật piano, em nhận thấy:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Prompt cơ bản:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Cách viết đơn giản, ngắn gọn, giúp AI hiểu yêu cầu chính. Tuy nhiên, kết quả thường còn chung chung, chưa có nhiều ví dụ hoặc giải thích cụ thể về kiến thức piano."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Prompt cải tiến:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Đưa ra yêu cầu rõ ràng hơn về nội dung, đối tượng và cách trình bày, giúp AI tập trung vào kiến thức cần tìm hiểu. Kết quả đầy đủ hơn, dễ hiểu và phù hợp với người mới học piano."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Prompt nâng cao:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Sử dụng kỹ thuật phân vai (Role Prompting), yêu cầu AI đóng vai giáo viên piano, đồng thời cung cấp các yêu cầu cụ thể về đặc điểm, cách thực hiện và ví dụ minh họa. Nhờ đó, câu trả lời có tính chuyên môn, dễ áp dụng vào thực hành."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Kết luận:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Prompt cải tiến và nâng cao thường mang lại kết quả tốt hơn Prompt cơ bản vì có yêu cầu cụ thể, rõ ràng và định hướng nội dung. Tuy nhiên, hiệu quả còn phụ thuộc vào cách đặt câu hỏi và mục đích học tập."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "5. Tổng hợp các nguyên tắc và mẹo viết Prompt hiệu quả"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Qua quá trình thử nghiệm, em rút ra một số nguyên tắc sau:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Sử dụng câu lệnh rõ ràng:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Nêu chính xác nội dung cần AI thực hiện, tránh diễn đạt mơ hồ."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Cung cấp thông tin cụ thể:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Đưa ra chủ đề, mục đích và đối tượng học tập để AI hiểu đúng yêu cầu, chẳng hạn kiến thức piano dành cho người mới bắt đầu."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Xác định vai trò cho AI:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Có thể yêu cầu AI đóng vai giáo viên piano, giảng viên âm nhạc hoặc người hướng dẫn luyện tập để câu trả lời phù hợp hơn."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Quy định cách trình bày:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Nêu rõ số lượng ý, độ dài, cách giải thích và yêu cầu ví dụ minh họa để nội dung dễ hiểu, dễ áp dụng."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Điều chỉnh Prompt khi cần thiết:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Nếu kết quả chưa phù hợp, hãy bổ sung hoặc thay đổi câu lệnh để cải thiện câu trả lời, đặc biệt đối với kiến thức nhạc lý và kỹ thuật thực hành piano."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Kết luận:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Viết Prompt hiệu quả giúp tiết kiệm thời gian, nâng cao chất lượng câu trả lời và hỗ trợ quá trình học tập piano tốt hơn. Tuy nhiên, cần kiểm tra lại thông tin do AI cung cấp để đảm bảo tính chính xác của kiến thức âm nhạc trước khi sử dụng."
+      }
+     ]
+    }
+   ]
+  ]
+ }
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "chuong-5-sang-tao-noi-dung-so-muc-5-4",
+  "c": [
+   {
+    "t": "text",
+    "v": "Chương 5: Sáng tạo nội dung số (mục 5.4)"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "a) Mục tiêu:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Sử dụng công cụ Trí tuệ nhân tạo (AI) để hỗ trợ xây dựng ý tưởng và thiết kế một Infographic mang tên "
+   },
+   {
+    "t": "em",
+    "c": [
+     {
+      "t": "text",
+      "v": "“Bí quyết học piano hiệu quả cho người mới bắt đầu”"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " nhằm chia sẻ phương pháp học đàn và giúp người mới tiếp cận piano dễ dàng hơn. Năng lực rèn luyện: kỹ năng viết prompt cho AI tạo sinh văn bản, chọn lọc và biên tập nội dung, sử dụng AI hỗ trợ thiết kế hình ảnh trực quan."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "b) Quá trình thực hiện"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "1. Lên ý tưởng nội dung:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Sử dụng Chat GPT để gợi ý các phương pháp học piano hiệu quả cho người mới bắt đầu. Sau đó, chọn lọc và tổng hợp thành 5 bí quyết ngắn gọn như: tư thế ngồi đúng, làm quen với các phím đàn, luyện tập thường xuyên, học nhạc lý cơ bản và kiên trì trong quá trình học."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "2. Tạo bố cục hình ảnh:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Sử dụng tính năng AI của Canva (Magic Design) nhập từ khóa để tạo nhanh bố cục Infographic dọc, bao gồm các mục nội dung, hình minh họa đàn piano và vị trí trình bày thông tin."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "3. Biên tập và hoàn thiện:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Tự điều chỉnh màu sắc theo phong cách nhẹ nhàng, phù hợp với chủ đề âm nhạc; lựa chọn phông chữ dễ đọc, bổ sung hình ảnh minh họa và kiểm tra lại nội dung để đảm bảo tính chính xác, thẩm mỹ và dễ hiểu."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "4. Sản phẩm hoàn thiện:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Tạo Infographic chia sẻ 5 bí quyết học piano hiệu quả cho người mới bắt đầu, kết hợp hình ảnh minh họa và nội dung ngắn gọn nhằm giúp người xem dễ tiếp thu và áp dụng vào quá trình luyện tập."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "c) Sản phẩm và minh chứng"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "image",
+  "key": "bai-5/01-hinh-5-1-prompt-chatgpt",
+  "alt": "Hình 5.1 - Nhập prompt yêu cầu Chat GPT gợi ý ý tưởng và nội dung cho Infographic."
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "em",
+    "c": [
+     {
+      "t": "text",
+      "v": "Hình 5.1 - Nhập prompt yêu cầu Chat GPT gợi ý ý tưởng và nội dung cho Infographic."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "image",
+  "key": "bai-5/02-hinh-5-2-infographic",
+  "alt": "Hình 5.2 - Sản phẩm Infographic \"Bí quyết học Piano hiệu quả cho người mới bắt đầu \" hoàn chỉnh."
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "em",
+    "c": [
+     {
+      "t": "text",
+      "v": "Hình 5.2 - Sản phẩm Infographic \"Bí quyết học Piano hiệu quả cho người mới bắt đầu \" hoàn chỉnh."
+     }
+    ]
+   }
+  ]
+ }
+]

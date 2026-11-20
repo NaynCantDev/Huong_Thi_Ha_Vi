@@ -1,0 +1,128 @@
+[
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Xin chào tôi tên là Vương Thị Hà Vi"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Sinh viên ngành sư phạm âm nhạc , Trường Đại học Sư phạm Nghệ thuật trung ương"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Mã sinh viên : 2552210219"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Mục tiêu học tập :"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Không chỉ học tốt kiến thức chuyên ngành mà còn biết kết hợp âm nhạc với công nghệ hiện đại, phát triển năng lực tự học và nghiên cứu để phục vụ công việc giảng dạy trong tương lai , đạt đầu ra tiếng anh ở "
+   },
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "mức B1"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Định hướng phát triển :"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Tôi mong muốn phát triển bản thân theo hướng không ngừng trau dồi kiến thức chuyên môn, kiên trì rèn luyện kỹ năng "
+   },
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "piano, thanh nhạc"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " và "
+   },
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "phương pháp sư phạm"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": ". Song song đó, tôi chủ động cập nhật, ứng dụng công nghệ số và trí tuệ nhân tạo (AI) vào quá trình học tập, nghiên cứu cũng như sáng tạo âm nhạc – hướng tới hình ảnh một "
+   },
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "giáo viên Âm nhạc năng động, sáng tạo và vững chuyên môn"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " trong tương lai."
+   }
+  ]
+ },
+ {
+  "type": "image",
+  "key": "gioi-thieu/02-portrait",
+  "alt": ""
+ }
+]

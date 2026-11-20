@@ -1,0 +1,360 @@
+[
+ {
+  "type": "heading",
+  "level": 2,
+  "id": "tong-ket-conclusion",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "Tổng kết (CONCLUSION)"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "1. Trải nghiệm và cảm nhận cá nhân"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Hành trình hoàn thiện cuốn Portfolio này mang lại cho tôi nhiều trải nghiệm thực tế giá trị khi được trực tiếp tiếp xúc và làm việc với các công cụ công nghệ mới, nổi bật là trí tuệ nhân tạo (AI). Thời gian đầu, tôi gặp đôi chút lúng túng trước các yêu cầu kỹ thuật, nhưng nhờ kiên trì thực hành qua từng chủ đề, tôi đã dần bắt nhịp, làm chủ công cụ và tự tin tạo ra những sản phẩm hoàn chỉnh mang dấu ấn cá nhân."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "2. Kiến thức và kỹ năng tích lũy được"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Khai thác thông tin:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Biết cách tra cứu, chọn lọc và hệ thống hóa tài liệu trên Internet một cách khoa học."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Ứng dụng công cụ số:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Sử dụng linh hoạt các nền tảng trực tuyến để thiết kế, biên tập và trình bày nội dung."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Tư duy đặt câu lệnh (Prompt):"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Nắm vững cách diễn đạt yêu cầu mạch lạc để điều hướng AI tạo ra sản phẩm sát với ý tưởng."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Sáng tạo nội dung âm nhạc:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Biết cách kết hợp AI để hỗ trợ lên ý tưởng và thiết kế ấn phẩm trong lĩnh vực âm nhạc."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Trách nhiệm trong môi trường số:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Nâng cao nhận thức về bảo mật dữ liệu, bản quyền và nguyên tắc sử dụng AI an toàn, đúng mực."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "3. Điều tâm đắc và những khó khăn đã qua"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Điều tâm đắc nhất:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Tôi thực sự hào hứng khi có thể đưa AI vào phục vụ chuyên môn âm nhạc – cụ thể là tự tay lên ý tưởng và thiết kế thành công poster quảng bá cho giờ học piano rất trực quan và thu hút."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Khó khăn lớn nhất:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Quá trình thử nghiệm và tinh chỉnh câu lệnh (Prompt) sao cho AI nắm bắt đúng ý đồ nghệ thuật, cũng như việc kiểm chứng, chắt lọc lại thông tin để sản phẩm cuối cùng giữ được tính tự nhiên và chính xác."
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "4. Hệ thống bài tập đã thực hiện"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Các sản phẩm thực hành xuyên suốt khóa học được lưu trữ và trình bày tại từng mục tương ứng trong Portfolio:"
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": false,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Bài 1:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Sử dụng máy tính."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Bài 2:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Tìm kiếm và thu thập tài liệu."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Bài 3:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Thực hành sử dụng công cụ số."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Bài 4:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Bài tập nhóm."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Bài 5:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " Sử dụng AI hỗ trợ sáng tạo nội dung."
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Bài 6:"
+        }
+       ]
+      },
+      {
+       "t": "text",
+       "v": " An toàn và liêm chính học thuật trong môi trường số."
+      }
+     ]
+    }
+   ]
+  ]
+ }
+]

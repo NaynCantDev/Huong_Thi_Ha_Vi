@@ -1,0 +1,1352 @@
+[
+ {
+  "type": "heading",
+  "level": 1,
+  "id": "bai-2",
+  "c": [
+   {
+    "t": "text",
+    "v": "Bài 2"
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 2,
+  "id": "chuong-2-khai-thac-du-lieu-va-thong-tin",
+  "c": [
+   {
+    "t": "text",
+    "v": "CHƯƠNG 2: KHAI THÁC DỮ LIỆU VÀ THÔNG TIN"
+   }
+  ],
+  "align": "center"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "TÌM KIẾM THÔNG TIN VÀ ĐÁNH GIÁ CÁC NGUỒN THÔNG TIN HỌC THUẬT"
+     }
+    ]
+   }
+  ],
+  "align": "center"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "ĐỀ TÀI: ỨNG DỤNG TRÍ TUỆ NHÂN TẠO (AI) HỖ TRỢ LUYỆN TẬP PIANO VÀ GIẢNG DẠY ÂM NHẠC"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "I.GIỚI THIỆU CHỦ ĐỀ VÀ PHẠM VI TÌM KIẾM"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "list",
+  "ordered": true,
+  "items": [
+   [
+    {
+     "type": "p",
+     "c": [
+      {
+       "t": "text",
+       "v": "Lý do chọn chủ đề"
+      }
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Sự phát triển mạnh mẽ của cuộc Cách mạng công nghiệp 4.0 đã đưa trí tuệ nhân tạo (AI) trở thành công cụ quen thuộc trong nhiều lĩnh vực, nổi bật là giáo dục và nghệ thuật. Riêng với ngành âm nhạc, AI mở ra nhiều hướng tiếp cận mới giúp đổi mới cách dạy và học, tạo điều kiện để người học nắm bắt kiến thức linh hoạt và hiệu quả hơn."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Piano là nhạc cụ đòi hỏi quá trình rèn luyện đều đặn, sự kiên nhẫn cùng khả năng cảm thụ âm nhạc tốt. Ở giai đoạn đầu, người học dễ gặp trở ngại khi đọc bản nhạc, nhận diện cao độ, giữ vững tiết tấu hay tự phát hiện lỗi sai lúc luyện tập. Các công cụ AI có thể hỗ trợ chỉ ra chỗ sai, đưa ra phản hồi kịp thời, định hướng cách tập và gợi ý lộ trình sát với năng lực từng cá nhân. Không chỉ dừng ở tự học, AI còn góp phần làm mới phương pháp truyền đạt trên lớp, tăng tính tương tác và san sẻ bớt khối lượng công việc cho giảng viên khi soạn giáo án. Dù vậy, việc đưa AI vào đào tạo âm nhạc vẫn tồn tại những giới hạn nhất định, đòi hỏi sự cân nhắc và đánh giá kỹ lưỡng để phát huy hiệu quả mà không làm lu mờ vai trò dẫn dắt trực tiếp của người thầy."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Từ những cơ sở đó, đề tài "
+   },
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "“Ứng dụng trí tuệ nhân tạo (AI) hỗ trợ luyện tập Piano và giảng dạy âm nhạc”"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " được lựa chọn nhằm khảo sát khả năng ứng dụng thực tế của AI, chỉ ra các điểm mạnh cũng như hạn chế, qua đó đề xuất giải pháp nâng cao chất lượng tập luyện Piano và đổi mới hoạt động dạy học âm nhạc trong giai đoạn hiện nay."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "2. Phạm vi và chiến lược tìm kiếm"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "• Phạm vi: Ưu tiên các tài liệu, nghiên cứu mới cập nhật, đặc biệt chú trọng những bài báo khoa học có mức độ trích dẫn cao."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "• Chiến lược: Khai thác thông tin qua Google Scholar, Google Search, VJOL, Tạp chí Giáo dục, Tạp chí Giáo dục Nghệ thuật và hệ thống thư viện của các trường đại học."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "II. DANH MỤC 10 TÀI LIỆU THAM KHẢO"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "iii-bang-tong-hop-tai-lieu-tham-khao-va-danh-gia-do-tin-cay",
+  "c": [
+   {
+    "t": "text",
+    "v": "III. BẢNG TỔNG HỢP TÀI LIỆU THAM KHẢO VÀ ĐÁNH GIÁ ĐỘ TIN CẬY"
+   }
+  ]
+ },
+ {
+  "type": "table",
+  "head": [
+   [
+    {
+     "t": "text",
+     "v": "STT"
+    }
+   ],
+   [
+    {
+     "t": "text",
+     "v": "Tên tài liệu, tạp chí"
+    }
+   ],
+   [
+    {
+     "t": "text",
+     "v": "Tác giả"
+    }
+   ],
+   [
+    {
+     "t": "text",
+     "v": "Đánh giá độ tin cậy"
+    }
+   ]
+  ],
+  "rows": [
+   [
+    [
+     {
+      "t": "text",
+      "v": "1"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Khai thác công nghệ AI nhằm nâng cao hiệu quả giáo dục âm nhạc cho trẻ mầm non "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " "
+     },
+     {
+      "t": "link",
+      "href": "https://sjes.hpu2.edu.vn/index.php/journal/article/view/828",
+      "c": [
+       {
+        "t": "text",
+        "v": "Xem tài liệu"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Ngô Thanh Hương"
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Cao:"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " Nội dung đề cập đến việc ứng dụng AI trong giáo dục âm nhạc, giúp nâng cao hứng thú, khả năng tương tác và phát triển cảm xúc thẩm mỹ cho trẻ. Tài liệu có giá trị tham khảo đối với nghiên cứu ứng dụng công nghệ trong dạy học âm nhạc."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "2"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Ứng dụng công nghệ AI trong tổ chức trò chơi âm nhạc cho trẻ mầm non "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " "
+     },
+     {
+      "t": "link",
+      "href": "https://sjes.hpu2.edu.vn/index.php/journal/article/view/845",
+      "c": [
+       {
+        "t": "text",
+        "v": "Xem tài liệu"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Hà Trọng Kiều"
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Cao:"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " Bài viết đề cập đến việc sử dụng AI để thiết kế trò chơi âm nhạc tương tác, hỗ trợ cá nhân hóa nội dung và tăng sự tích cực của trẻ trong hoạt động học tập. Có giá trị tham khảo trong đổi mới hình thức tổ chức dạy học."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "3"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Ảnh hưởng của trí tuệ nhân tạo trong giảng dạy các học phần âm nhạc cho sinh viên ngành Giáo dục Mầm non tại Trường Đại học Trà Vinh "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " "
+     },
+     {
+      "t": "link",
+      "href": "https://vjol.info.vn/tctbgd/vi/article/view/161649/",
+      "c": [
+       {
+        "t": "text",
+        "v": "Xem tài liệu"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nguyễn Thị Kim Biên"
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Cao:"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " Nghiên cứu trực tiếp về AI trong giảng dạy âm nhạc ở môi trường đại học. Nội dung có liên hệ thực tiễn đào tạo giáo viên và phù hợp với hướng nghiên cứu đổi mới phương pháp dạy học âm nhạc."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "4"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tổng quan ứng dụng trí tuệ nhân tạo trong phát triển khả năng âm nhạc của trẻ mầm non "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " "
+     },
+     {
+      "t": "link",
+      "href": "https://tamlygiaoduc.com.vn/wp-content/uploads/2025/07/48.Edited-3-Ky-3.06-Bai-bao-moi-dang-fix-ngay-11.4.2025.pdf",
+      "c": [
+       {
+        "t": "text",
+        "v": "Xem tài liệu"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Đặng Văn Phúc"
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Khá:"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " Nội dung tổng quan các ứng dụng AI trong phát triển khả năng âm nhạc của trẻ, như nhận diện âm thanh, mô phỏng nhạc cụ và cá nhân hóa học tập. Có thể tham khảo và kết hợp với các nghiên cứu thực nghiệm."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "5"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Dạy học lý thuyết âm nhạc trong bối cảnh chuyển đổi số: Thực tiễn và định hướng phát triển "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " "
+     },
+     {
+      "t": "link",
+      "href": "https://www.vjol.info.vn/tcgiaoducnghethuat/vi/article/view/256116/",
+      "c": [
+       {
+        "t": "text",
+        "v": "Xem tài liệu"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nguyễn Thị Thu Trang và La Bảo Hồng"
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Cao:"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " Đề cập đến ứng dụng công nghệ số trong dạy học lý thuyết âm nhạc, phần mềm và các hình thức dạy học đổi mới. Có giá trị trong xây dựng cơ sở lý luận và đề xuất giải pháp giảng dạy."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "6"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Phương tiện dạy học âm nhạc thời đại 4.0 "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " "
+     },
+     {
+      "t": "link",
+      "href": "https://vjol.info.vn/tcgiaoducnghethuat/vi/article/view/79335/",
+      "c": [
+       {
+        "t": "text",
+        "v": "Xem tài liệu"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Lương Minh Tân"
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Khá:"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " Nội dung làm rõ vai trò của phương tiện công nghệ, tài nguyên Internet và phần mềm âm nhạc trong quá trình dạy học. Có thể sử dụng làm tài liệu tham khảo về công nghệ hỗ trợ giảng dạy."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "7"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Dạy học âm nhạc trực tuyến tại Trường Đại học Sư phạm Nghệ thuật Trung ương "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " "
+     },
+     {
+      "t": "link",
+      "href": "https://vjol.info.vn/DHSP-GD/vi/article/view/139478/",
+      "c": [
+       {
+        "t": "text",
+        "v": "Xem tài liệu"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Lương Minh Tân và Nguyễn Thị Tố Mai"
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Cao:"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " Nghiên cứu về phương pháp dạy học trực tuyến, thiết bị và chất lượng truyền tải âm thanh. Tài liệu có tính thực tiễn và phù hợp với nghiên cứu công nghệ hỗ trợ dạy học âm nhạc."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "8"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tổng hợp và đề xuất các hướng nghiên cứu chuyên ngành Lý luận và phương pháp dạy học Âm nhạc tại Việt Nam "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " "
+     },
+     {
+      "t": "link",
+      "href": "https://jst.tnu.edu.vn/jst/article/view/14772",
+      "c": [
+       {
+        "t": "text",
+        "v": "Xem tài liệu"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Hà Phước Phú Cường"
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Cao:"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " Bài nghiên cứu phân tích các công trình trong lĩnh vực lý luận và phương pháp dạy học âm nhạc, giúp xác định xu hướng nghiên cứu, khoảng trống và định hướng phát triển. Có giá trị tham khảo trong xây dựng đề tài."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "9"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Ứng dụng trí tuệ nhân tạo trong giảng dạy nghệ thuật – Kết nối công nghệ với đổi mới đào tạo "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " "
+     },
+     {
+      "t": "link",
+      "href": "https://spnttw.edu.vn/ung-dung-tri-tue-nhan-tao-trong-giang-day-nghe-thuat-ket-noi-cong-nghe-voi-doi-moi-dao-tao/",
+      "c": [
+       {
+        "t": "text",
+        "v": "Xem tài liệu"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Trường Đại học Sư phạm Nghệ thuật Trung ương"
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Khá:"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " Nguồn thông tin từ cơ sở đào tạo chuyên ngành nghệ thuật, giới thiệu hoạt động ứng dụng AI trong sáng tác, sản xuất và hỗ trợ dạy học. Có giá trị tham khảo thực tiễn về xu hướng công nghệ trong đào tạo nghệ thuật."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "10"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nội dung tập huấn ứng dụng AI trong dạy và học môn Âm nhạc "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " "
+     },
+     {
+      "t": "link",
+      "href": "https://f1.hcm.edu.vn/data/doc/2026/ttthongtin/2026_2/24/pl3aimn_24220268.pdf",
+      "c": [
+       {
+        "t": "text",
+        "v": "Xem tài liệu"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Ngành Giáo dục và Đào tạo Thành phố Hồ Chí Minh"
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Khá:"
+       }
+      ]
+     },
+     {
+      "t": "text",
+      "v": " Tài liệu tập huấn hướng dẫn giáo viên sử dụng AI, phần mềm âm nhạc và thiết kế hoạt động dạy học. Có tính ứng dụng thực tiễn, phù hợp tham khảo cách triển khai công nghệ trong trường phổ thông."
+     }
+    ]
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "IV. BẢNG ĐÁNH GIÁ TÀI LIỆU THAM KHẢO"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "heading",
+  "level": 3,
+  "id": "iv-bang-danh-gia-tai-lieu-tham-khao",
+  "c": [
+   {
+    "t": "text",
+    "v": "IV. BẢNG ĐÁNH GIÁ TÀI LIỆU THAM KHẢO"
+   }
+  ]
+ },
+ {
+  "type": "table",
+  "head": [
+   [
+    {
+     "t": "text",
+     "v": "STT và tên bài viết"
+    }
+   ],
+   [
+    {
+     "t": "text",
+     "v": "Tác giả"
+    }
+   ],
+   [
+    {
+     "t": "text",
+     "v": "Cơ quan xuất bản"
+    }
+   ],
+   [
+    {
+     "t": "text",
+     "v": "Phương pháp nghiên cứu"
+    }
+   ],
+   [
+    {
+     "t": "text",
+     "v": "Trích dẫn"
+    }
+   ],
+   [
+    {
+     "t": "text",
+     "v": "Tính cập nhật"
+    }
+   ],
+   [
+    {
+     "t": "text",
+     "v": "Tổng quan"
+    }
+   ]
+  ],
+  "rows": [
+   [
+    [
+     {
+      "t": "text",
+      "v": "1. Khai thác công nghệ AI nhằm nâng cao hiệu quả giáo dục âm nhạc cho trẻ mầm non"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Ngô Thanh Hương"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tạp chí Khoa học Trường ĐHSP Hà Nội 2 – Chuyên san Khoa học Giáo dục"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tổng quan, phân tích các ứng dụng AI và đề xuất giải pháp thực tiễn."
+     }
+    ],
+    [
+     {
+      "t": "link",
+      "href": "https://sjes.hpu2.edu.vn/index.php/journal/article/view/828",
+      "c": [
+       {
+        "t": "text",
+        "v": "Tập 2, số 05 (2026), bài 35."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "2026 – tài liệu mới, phản ánh xu hướng ứng dụng AI hiện nay."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Trình bày khả năng ứng dụng AI nhằm nâng cao hứng thú, phát triển khả năng âm nhạc và hỗ trợ giáo viên tổ chức hoạt động giáo dục cho trẻ mầm non."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "2. Ứng dụng công nghệ AI trong tổ chức trò chơi âm nhạc cho trẻ mầm non"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Hà Trọng Kiều"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tạp chí Khoa học Trường ĐHSP Hà Nội 2 – Chuyên san Khoa học Giáo dục"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Phân tích lý luận, đề xuất các hình thức tổ chức trò chơi tích hợp AI."
+     }
+    ],
+    [
+     {
+      "t": "link",
+      "href": "https://sjes.hpu2.edu.vn/index.php/journal/article/view/845",
+      "c": [
+       {
+        "t": "text",
+        "v": "Tập 2, số 05 (2026), bài 179."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "2026 – có tính cập nhật cao đối với xu hướng AI trong giáo dục."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nghiên cứu việc thiết kế trò chơi tương tác, cá nhân hóa nội dung và tạo phản hồi thông minh nhằm phát huy tính tích cực, sáng tạo của trẻ."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "3. Tổng quan ứng dụng trí tuệ nhân tạo trong việc phát triển khả năng âm nhạc của trẻ mầm non"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Đặng Văn Phúc"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tạp chí Tâm lý – Giáo dục"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tổng quan và phân tích các công trình nghiên cứu, giải pháp công nghệ."
+     }
+    ],
+    [
+     {
+      "t": "link",
+      "href": "https://tamlygiaoduc.com.vn/wp-content/uploads/2025/07/48.Edited-3-Ky-3.06-Bai-bao-moi-dang-fix-ngay-11.4.2025.pdf",
+      "c": [
+       {
+        "t": "text",
+        "v": "Bài báo PDF – 2025."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "2025 – nghiên cứu tương đối mới, phù hợp bối cảnh chuyển đổi số."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Phân tích các công nghệ AI như nhận diện âm thanh, phản hồi thời gian thực, mô phỏng nhạc cụ và cá nhân hóa trải nghiệm nhằm phát triển cảm thụ âm nhạc ở trẻ."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "4. Ảnh hưởng của trí tuệ nhân tạo trong giảng dạy các học phần âm nhạc cho sinh viên ngành Giáo dục Mầm non tại Trường Đại học Trà Vinh"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nguyễn Thị Kim Biên"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tạp chí Thiết bị Giáo dục"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Khảo sát thực tiễn và phân tích ảnh hưởng của AI đối với quá trình học tập."
+     }
+    ],
+    [
+     {
+      "t": "link",
+      "href": "https://vjol.info.vn/tctbgd/vi/article/view/161649/",
+      "c": [
+       {
+        "t": "text",
+        "v": "Số 347, kỳ 1 tháng 2 (2026)."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "2026 – cập nhật trực tiếp tình hình ứng dụng AI trong đào tạo."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Làm rõ lợi ích của AI trong luyện thanh, xướng âm và thiết kế hoạt động tương tác; đồng thời chỉ ra hạn chế về kiến thức công nghệ và nguy cơ phụ thuộc AI."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "5. Phương tiện dạy học âm nhạc thời đại 4.0"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Lương Minh Tân"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tạp chí Giáo dục Nghệ thuật"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Phân tích lý luận và thực tiễn sử dụng phương tiện, phần mềm công nghệ trong dạy học âm nhạc."
+     }
+    ],
+    [
+     {
+      "t": "link",
+      "href": "https://vjol.info.vn/tcgiaoducnghethuat/vi/article/view/79335/",
+      "c": [
+       {
+        "t": "text",
+        "v": "Tập 3, số 42 (2022)."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "2022 – cung cấp nền tảng về công nghệ số trong dạy học âm nhạc."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Đề cập đến việc khai thác tài nguyên Internet, phần mềm và phương tiện hiện đại nhằm hỗ trợ đổi mới hoạt động dạy học âm nhạc."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "6. Dạy học âm nhạc trực tuyến tại Trường Đại học Sư phạm Nghệ thuật Trung ương"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Lương Minh Tân và Nguyễn Thị Tố Mai"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tạp chí Giáo dục"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nghiên cứu lý thuyết, khảo sát thực tiễn và thực nghiệm."
+     }
+    ],
+    [
+     {
+      "t": "link",
+      "href": "https://www.vjol.info.vn/DHSP-GD/vi/article/view/139478/",
+      "c": [
+       {
+        "t": "text",
+        "v": "Tập 70, số 6 (2025); DOI: 10.18173/2354-1075.2025-0114."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "2025 – cập nhật kinh nghiệm dạy học trực tuyến sau giai đoạn Covid-19."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nghiên cứu các mô hình, thiết bị và phần mềm hỗ trợ dạy học âm nhạc trực tuyến; chú trọng chất lượng âm thanh, không gian thực hành và hiệu quả truyền tải kiến thức."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "7. Tổng hợp và đề xuất các hướng nghiên cứu chuyên ngành Lý luận và phương pháp dạy học Âm nhạc tại Việt Nam"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Hà Phước Phú Cường"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "TNU Journal of Science and Technology – Nhạc viện Thành phố Hồ Chí Minh"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nghiên cứu tài liệu, tổng hợp và phân tích 14 luận án tiến sĩ giai đoạn 2020–2025."
+     }
+    ],
+    [
+     {
+      "t": "link",
+      "href": "https://jst.tnu.edu.vn/jst/article/view/14772",
+      "c": [
+       {
+        "t": "text",
+        "v": "Tập 231, số 12 (2026), tr. 321–326; DOI: 10.34238/tnu-jst.14772."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "2026 – tài liệu mới, cập nhật xu hướng nghiên cứu chuyên ngành."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tổng hợp các hướng nghiên cứu về lý luận và phương pháp dạy học âm nhạc, chỉ ra khoảng trống nghiên cứu và đề xuất định hướng phát triển phù hợp chương trình giáo dục phổ thông."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "8. Ứng dụng công nghệ thông tin trong dạy học âm nhạc cho sinh viên ngành Giáo dục Mầm non: Nghiên cứu trường hợp tại Trường Đại học Giáo dục – Đại học Quốc gia Hà Nội"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Đặng Văn Phúc"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tạp chí Giáo dục"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nghiên cứu trường hợp; khảo sát 131 sinh viên."
+     }
+    ],
+    [
+     {
+      "t": "link",
+      "href": "https://tcgd.tapchigiaoduc.edu.vn/index.php/tapchi/article/view/3408",
+      "c": [
+       {
+        "t": "text",
+        "v": "Tập 25, số đặc biệt 2 (2025), tr. 332–337."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "2025 – tài liệu cập nhật về ứng dụng công nghệ trong đào tạo giáo viên."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Đánh giá thực trạng ứng dụng công nghệ thông tin trong dạy học âm nhạc cho sinh viên Giáo dục Mầm non, qua đó làm rõ vai trò của công nghệ trong nâng cao hiệu quả đào tạo."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "9. Ứng dụng phần mềm MuseScore, EarMaster và Solfeggio trong dạy học môn Đọc nhạc (Xướng âm) cho sinh viên ngành Giáo dục Tiểu học, Trường Đại học Hồng Đức"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Đỗ Thị Thu Phương"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tạp chí Khoa học Trường Đại học Hồng Đức – Khoa học Giáo dục và Quản lý"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nghiên cứu lý thuyết, khảo sát thực tiễn và thực nghiệm."
+     }
+    ],
+    [
+     {
+      "t": "link",
+      "href": "https://hdujs.edu.vn/index.php/gdql/article/view/913",
+      "c": [
+       {
+        "t": "text",
+        "v": "Số 85 (03/2026), tr. 17–27; DOI: 10.70117/hdujs.85.3.2026.913."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "2026 – tài liệu mới về phần mềm âm nhạc trong đào tạo."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Trình bày việc sử dụng MuseScore, EarMaster và Solfeggio để hỗ trợ luyện đọc nhạc, xướng âm, cảm thụ âm nhạc và tự học của sinh viên."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "text",
+      "v": "10. Ứng dụng trí tuệ nhân tạo (AI) trong sáng tác ca khúc theo hướng tiếp cận năng lực sáng tạo với hoạt động ngoại khóa ở trường trung học phổ thông"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Thái Đình Dũng và Lý Trần Thái Bình"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tạp chí Khoa học Xã hội, Nhân văn và Giáo dục – Đại học Sư phạm, Đại học Đà Nẵng"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Phân tích việc ứng dụng AI trong sáng tác và tổ chức hoạt động giáo dục âm nhạc."
+     }
+    ],
+    [
+     {
+      "t": "link",
+      "href": "https://jshe.ued.udn.vn/index.php/jshe/article/download/1186/919/",
+      "c": [
+       {
+        "t": "text",
+        "v": "DOI: 10.47393/jshe.v15.i2.3645."
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "2025 – nghiên cứu mới gắn AI với giáo dục phổ thông."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Đề cập việc khai thác AI trong sáng tác ca khúc và hoạt động ngoại khóa, góp phần phát triển năng lực sáng tạo âm nhạc cho học sinh THPT theo chương trình giáo dục phổ thông 2018."
+     }
+    ]
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "V. NHẬN XÉT VÀ ĐÁNH GIÁ CHUNG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Qua quá trình tìm kiếm, tổng hợp và đánh giá các tài liệu tham khảo, có thể nhận thấy việc ứng dụng công nghệ thông tin, đặc biệt là trí tuệ nhân tạo (AI), đang mở ra nhiều hướng đổi mới trong lĩnh vực giáo dục âm nhạc tại Việt Nam. Các tài liệu đã nghiên cứu đề cập đến việc sử dụng công nghệ để hỗ trợ giảng dạy, xây dựng hoạt động học tập tương tác, luyện tập kỹ năng âm nhạc, sáng tác và nâng cao khả năng tự học của người học."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Phần lớn các tài liệu có nguồn xuất bản tương đối rõ ràng, được đăng trên tạp chí khoa học, cơ sở đào tạo hoặc các đơn vị giáo dục, do đó có giá trị tham khảo trong việc xây dựng cơ sở lý luận và tìm hiểu thực tiễn. Những nghiên cứu gần đây cũng cho thấy xu hướng quan tâm ngày càng tăng đến AI, chuyển đổi số và các phần mềm hỗ trợ dạy học âm nhạc."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Tuy nhiên, bên cạnh những lợi ích, việc ứng dụng công nghệ vẫn đặt ra một số vấn đề như năng lực sử dụng công nghệ của giáo viên, điều kiện thiết bị, tính chính xác của nội dung do AI tạo ra và nguy cơ người học phụ thuộc quá mức vào công nghệ. Vì vậy, công nghệ cần được sử dụng như một phương tiện hỗ trợ chứ không thay thế vai trò của giáo viên, sự sáng tạo, cảm xúc và trải nghiệm âm nhạc trực tiếp."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Từ những kết quả đánh giá trên, có thể định hướng việc nghiên cứu và ứng dụng AI trong dạy học âm nhạc theo hướng phù hợp với mục tiêu giáo dục, đối tượng học sinh, điều kiện thực tiễn và bảo đảm phát huy tính chủ động, sáng tạo của người học. Đây là cơ sở quan trọng để tiếp tục nghiên cứu, lựa chọn công cụ và đề xuất các giải pháp ứng dụng công nghệ hiệu quả trong dạy học âm nhạc hiện nay."
+   }
+  ]
+ }
+]

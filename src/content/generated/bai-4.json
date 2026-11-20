@@ -1,0 +1,1724 @@
+[
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "BÁO CÁO BÀI TẬP 4"
+     }
+    ]
+   }
+  ],
+  "align": "center"
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "RÈN LUYỆN KĨ NĂNG TỔ CHỨC VÀ THAM GIA CUỘC HỌP TRỰC TUYẾN CHUYÊN NGHIỆP"
+     }
+    ]
+   }
+  ],
+  "align": "center"
+ },
+ {
+  "type": "table",
+  "head": [
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "THÔNG TIN CHUNG VỀ HOẠT ĐỘNG NHÓM"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " "
+    },
+    {
+     "t": "br"
+    },
+    {
+     "t": "text",
+     "v": " Tên nhóm làm việc: Nhóm Cns tối chủ nhật (Gồm 6 thành viên tham gia thực hiện bài tập) "
+    },
+    {
+     "t": "br"
+    },
+    {
+     "t": "text",
+     "v": " Chủ đề thảo luận & thuyết trình: Ứng dụng Trí tuệ nhân tạo (AI) trong dạy học môn Âm nhạc ở bậc Tiểu học "
+    },
+    {
+     "t": "br"
+    },
+    {
+     "t": "text",
+     "v": " Công cụ tổ chức họp trực tuyến: Google Meet (Kết hợp kênh trao đổi điều phối nhanh qua nhóm Zalo vào tối chủ nhật) "
+    },
+    {
+     "t": "br"
+    },
+    {
+     "t": "text",
+     "v": " Thời gian họp trực tuyến: Từ 20:00 đến 21:00, ngày 15/11/2026"
+    }
+   ]
+  ],
+  "rows": []
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "I. KẾ HOẠCH CUỘC HỌP"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "1. Mục tiêu và yêu cầu cuộc họp"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Cuộc họp trực tuyến được tổ chức nhằm thống nhất cấu trúc nội dung, phân công nhiệm vụ cụ thể cho từng thành viên và khớp nối kịch bản thuyết trình cho chủ đề \"Ứng dụng Trí tuệ nhân tạo (AI) trong dạy học môn Âm nhạc ở tiểu học\". Thông qua buổi họp, nhóm đặt mục tiêu đảm bảo bài thuyết trình có mạch triển khai logic, bám sát thực tiễn giảng dạy tại trường tiểu học, đồng thời kiểm soát chặt chẽ tổng thời lượng trình bày khoảng 4,5 phút (tương đương 1,5 phút cho mỗi phần nội dung chính)."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Bên cạnh mục tiêu chuyên môn, cuộc họp còn là hoạt động thực hành quy trình tổ chức và vận hành một phiên làm việc trực tuyến chuyên nghiệp trên nền tảng Google Meet: có người điều hướng giữ nhịp thảo luận, thư ký ghi chép biên bản, các thành viên báo cáo phần tài liệu chuẩn bị và thống nhất sản phẩm minh họa thực tế trước hạn nộp bài."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "2. Thời gian, hình thức và thành phần tham dự"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "• Thời gian tổ chức:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " 20:00 – 21:00, ngày 15/11/2026 (Chuẩn bị trước 10 phút để kiểm tra đường truyền, micro và chia sẻ màn hình)."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "• Hình thức và nền tảng:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Họp trực tuyến qua Google Meet; trao đổi tài liệu, phân công trước giờ họp và chốt hạn nộp sản phẩm quay dựng qua nhóm Zalo \"Cns Tối T7\"."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "• Thành phần tham dự:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Đầy đủ 06 thành viên của nhóm gồm: Đoàn Phương Vy (Người điều hướng), Vương Thị Hà Vi (Thuyết trình Phần 1 & 2), Nguyễn Tường Vy (Thuyết trình Phần 3 & Tạo dẫn chứng bằng AI), Hoàng Khánh Vy (Chuẩn bị tài liệu Phần 1), Vy Vy Phạm (Thư ký & Chuẩn bị tài liệu Phần 2), Ngọc Vy (Chuẩn bị tài liệu Phần 3)."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "• Hạn hoàn thành sản phẩm sau họp:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Các thành viên hoàn thiện phần quay thuyết trình và gửi về cho bạn Nguyễn Tường Vy muộn nhất là 17:00 (5 giờ chiều) ngày hôm sau (16/11/2026) để tổng hợp."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "3. Công tác chuẩn bị trước cuộc họp"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "▪  Người điều hướng (Nguyễn Tường Vy):"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Xây dựng khung kịch bản gồm 3 phần nối tiếp theo tiến trình một tiết dạy âm nhạc ở tiểu học, phân bổ thời lượng 1,5 phút/phần và gửi lên nhóm Zalo để các thành viên rà soát trước."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "▪  Người thuyết trình (Vương Thị Hà Vi & Nguyễn Tường Vy):"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Chuẩn bị sẵn nội dung chi tiết cho Phần 1 & Phần 2, kiểm tra độ trôi chảy khi đọc lời dẫn và đối chiếu ý kiến góp ý cùng các thành viên phụ trách tài liệu."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "▪  Nhóm chuẩn bị tài liệu (Hoàng Khánh Vy, Vy Vy Phạm, Ngọc Vy):"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Sưu tầm tư liệu, biên soạn ví dụ minh họa cho từng phần (lời đồng dao/bài hát ngắn, nhạc nền/tiết tấu, mô tả nhân vật và tranh minh họa âm nhạc) để trình bày trong cuộc họp."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "▪  Thư ký cuộc họp (Phạm Thị Vy):"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Chuẩn bị biểu mẫu ghi chép biên bản cuộc họp, hỗ trợ tổng hợp và tóm tắt các ý chính của nội dung thảo luận bằng công cụ AI để hoàn thiện hồ sơ báo cáo."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "4. Chương trình (Agenda) dự kiến của cuộc họp"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "table",
+  "head": [
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "Thời gian"
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "Nội dung phiên họp"
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "Người phụ trách"
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "Kết quả đầu ra dự kiến"
+      }
+     ]
+    }
+   ]
+  ],
+  "rows": [
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "20:00 – 20:05 "
+       },
+       {
+        "t": "br"
+       },
+       {
+        "t": "text",
+        "v": " (5 phút)"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Ổn định phòng họp Google Meet, điểm danh thành viên, kiểm tra âm thanh/chia sẻ màn hình và công bố mục tiêu cuộc họp."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nguyễn Tường Vy "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " (Điều hướng)"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "100% thành viên có mặt, thống nhất quy tắc phát biểu và mục tiêu buổi họp."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "20:05 – 20:15 "
+       },
+       {
+        "t": "br"
+       },
+       {
+        "t": "text",
+        "v": " (10 phút)"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Giới thiệu tổng quan chủ đề \"Ứng dụng AI trong dạy học âm nhạc ở tiểu học\" và rà soát khung kịch bản 3 phần."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Đoàn Phương Vy & "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " Vương Thị Hà Vi"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Chốt mạch dẫn nhập mở đầu và cấu trúc 3 phần (1,5 phút/phần)."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "20:15 – 20:35 "
+       },
+       {
+        "t": "br"
+       },
+       {
+        "t": "text",
+        "v": " (20 phút)"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Thảo luận chi tiết nội dung Phần 1 (Hỗ trợ soạn bài, viết lời đồng dao) và Phần 2 (Tạo nhạc nền, phối khí, minh họa âm thanh)."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Vương Thị Hà Vi, "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " Hoàng Khánh Vy, Phạm Thị Vy"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Hoàn thiện lời thuyết trình Phần 1 & 2, chốt ví dụ minh họa và nhạc đệm."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "20:35 – 20:50 "
+       },
+       {
+        "t": "br"
+       },
+       {
+        "t": "text",
+        "v": " (15 phút)"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Thảo luận nội dung Phần 3 (Tạo hình ảnh, nhân vật, kể chuyện trực quan) và thống nhất phương án tạo dẫn chứng bằng AI."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nguyễn Tường Vy & "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " Ngọc Vy"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Chốt hình tượng nhân vật dẫn dắt và bộ tranh minh họa tính chất âm nhạc."
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "20:50 – 21:00 "
+       },
+       {
+        "t": "br"
+       },
+       {
+        "t": "text",
+        "v": " (10 phút)"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Thư ký tổng hợp ý chính, chốt phân công quay video thuyết trình, thống nhất mốc thời gian nộp bài (17:00 ngày hôm sau)."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Phạm Thị Vy & "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " Nguyễn Tường Vy"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Biên bản thống nhất phân công nhiệm vụ và lịch trình hoàn thiện sản phẩm."
+     }
+    ]
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "II. BIÊN BẢN CUỘC HỌP"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "1. Thông tin hành chính phiên họp"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "• Tên cuộc họp:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Họp nhóm triển khai bài tập thuyết trình chủ đề \"Ứng dụng Trí tuệ nhân tạo (AI) trong dạy học Âm nhạc ở Tiểu học\"."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "• Thời gian bắt đầu – kết thúc:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Bắt đầu lúc 20:00, kết thúc lúc 21:00, chủ Nhật, ngày 15/11/2026."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "• Địa điểm / Nền tảng:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Phòng họp trực tuyến Google Meet (Kèm kênh điều phối tin nhắn nhóm Zalo Cns Tối T7)."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "• Chủ trì (Người điều hướng):"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Đoàn Phương Vy."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "• Thư ký ghi biên bản:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Phạm Thị Vy"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "• Thành viên tham dự:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Có mặt 05/06 thành viên (Vương Thị Hà Vi, Nguyễn Tường Vy, Hoàng Khánh Vy, Phạm Thị Vy, Ngọc Vy). Vắng mặt: 1- Đoàn Phương Vy,"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "2. Diễn biến chi tiết nội dung thảo luận"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Mở đầu cuộc họp lúc 20:00, bạn Nguyễn Tường Vy với vai trò Người điều hướng thực hiện điểm danh, kiểm tra chất lượng đường truyền của các thành viên trên Google Meet và tuyên bố lý do buổi họp. Theo kịch bản mở đầu đã thống nhất, người điều hướng xác định rõ mạch dẫn nhập vào chủ đề: nhóm tập trung tìm hiểu các giải pháp ứng dụng trí tuệ nhân tạo (AI) nhằm hỗ trợ giáo viên tiểu học nâng cao hiệu quả giảng dạy môn Âm nhạc, sau đó chuyển quyền trình bày chính cho bạn Vương Thị Hà Vi."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Tiếp theo, bạn Vương Thị Hà Vi trình bày dự thảo nội dung Phần 1 và Phần 2, đồng thời thảo luận cùng nhóm chuẩn bị tài liệu (Hoàng Khánh Vy và Vy Vy Phạm) để hoàn thiện chi tiết từng mục:"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "▪  Nội dung 1 – Hỗ trợ soạn bài, viết lời đồng dao và bài hát ngắn (Khoảng 1,5 phút):"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Tập trung vào khâu chuẩn bị giáo án của giáo viên. Nhóm thống nhất làm rõ cách các công cụ AI tạo văn bản hỗ trợ gợi ý ý tưởng trò chơi âm nhạc, câu chuyện dẫn dắt vào bài học hoặc sáng tác lời mới dựa trên giai điệu quen thuộc (như chủ đề an toàn giao thông, giữ gìn vệ sinh trường lớp, chào đón năm học mới). Đặc biệt, nhóm nhấn mạnh nguyên tắc sư phạm cốt lõi: AI chỉ giúp tiết kiệm thời gian lên ý tưởng ban đầu, còn giáo viên luôn là người trực tiếp biên tập lại để câu chữ ngắn gọn, tự nhiên và vừa sức với vốn từ của học sinh từng khối lớp."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "▪  Nội dung 2 – Tạo nhạc nền, phối khí và minh họa âm thanh (Khoảng 1,5 phút):"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Tập trung vào khâu xử lý âm thanh và nhạc đệm trong tiết học. Ở bậc tiểu học, việc tự phối khí hoặc dựng nhạc nền cho tiết mục văn nghệ, trò chơi vận động hay kể chuyện theo nhạc đòi hỏi nhiều thời gian và kĩ thuật. Nhờ các công cụ AI tạo nhạc, giáo viên có thể tạo nhanh những đoạn nhạc nền vui tươi, tiết tấu rõ ràng theo đúng tâm trạng hoặc chủ đề bài học, giúp học sinh dễ cảm nhận nhịp điệu, dễ bắt nhịp và hào hứng hơn khi thực hành hát kết hợp vận động."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Sau phần trình bày của bạn Hà Vi, bạn Nguyễn Tường Vy tiếp nối thảo luận và chốt phương án triển khai Phần 3 cùng sự hỗ trợ tài liệu từ bạn Ngọc Vy:"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "▪  Nội dung 3 – Tạo hình ảnh, nhân vật và kể chuyện trực quan (Khoảng 1,5 phút):"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Tập trung vào đặc điểm tâm lý tiếp nhận của học sinh tiểu học – lứa tuổi học tập hiệu quả nhất thông qua hình ảnh trực quan và câu chuyện sinh động. Nhóm thống nhất dùng AI tạo ảnh để minh họa nội dung bài hát, xây dựng các nhân vật đồng hành gần gũi như \"Bạn Nốt Nhạc\" hoặc \"Chú Thỏ Giữ Nhịp\", cùng hình ảnh nhạc cụ đặt trong bối cảnh sinh động. Thay vì chỉ nhìn văn bản khô khan trên bảng, học sinh được quan sát hình ảnh gắn liền với âm thanh để nhận biết rõ tính chất âm nhạc như vui tươi hay trầm lắng, tiết tấu nhanh hay chậm."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Trong phần trao đổi cuối phiên họp, bạn Nguyễn Tường Vy chủ động nhận nhiệm vụ sử dụng công cụ AI để tạo bộ dẫn chứng hình ảnh trực quan phục vụ cho Phần 3, đồng thời gửi bản nháp kịch bản lên nhóm để bạn Vương Thị Hà Vi kiểm tra lại sự liền mạch giữa các phần. Bạn Vy Vy Phạm nhận trách nhiệm thư ký, tổng hợp toàn bộ nội dung thảo luận, dùng công cụ AI hỗ trợ tóm tắt các ý chính để hoàn thiện hồ sơ biên bản và báo cáo nhóm."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "3. Bảng tổng hợp quyết nghị và phân công nhiệm vụ sau cuộc họp"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "table",
+  "head": [
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "Hạng mục công việc"
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "Người phụ trách"
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "Yêu cầu chất lượng / Nội dung cụ thể"
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "Thời hạn hoàn thành"
+      }
+     ]
+    }
+   ]
+  ],
+  "rows": [
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Quay lời dẫn điều hướng mở đầu cuộc họp"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nguyễn Tường Vy"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Giới thiệu chủ đề buổi họp, định hướng mạch trình bày 3 phần và mời thuyết trình viên."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Trước 17:00 "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " ngày 16/11/2026"
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Quay video thuyết trình Phần 1 & Phần 2"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Vương Thị Hà Vi "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " (Phối hợp Khánh Vy, Phạm Vy)"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Trình bày rõ ràng, đúng thời lượng ~1,5 phút/phần; làm nổi bật vai trò biên tập của giáo viên và tính ứng dụng nhạc đệm."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Trước 17:00 "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " ngày 16/11/2026"
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Tạo dẫn chứng hình ảnh AI & quay thuyết trình Phần 3"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nguyễn Tường Vy "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " (Phối hợp Ngọc Vy)"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tạo hình ảnh nhân vật (Bạn Nốt Nhạc, Chú Thỏ Giữ Nhịp), minh họa sắc thái âm nhạc và quay video phần 3 (~1,5 phút)."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Trước 17:00 "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " ngày 16/11/2026"
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Tổng hợp ý chính & hoàn thiện biên bản thư ký"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Phạm Thị Vy"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tóm tắt các ý chính từ nội dung thảo luận bằng AI, rà soát câu chữ và hoàn thiện báo cáo nhóm."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Trước 17:00 "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " ngày 16/11/2026"
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Thu thập file quay & dựng sản phẩm hoàn chỉnh"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Nguyễn Tường Vy"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Tiếp nhận toàn bộ video của các thành viên, kiểm tra đồng bộ âm thanh – hình ảnh và xuất bản hoàn chỉnh."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Sau 17:00 "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " ngày 17/11/2026"
+     }
+    ]
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "em",
+    "c": [
+     {
+      "t": "text",
+      "v": "Cuộc họp kết thúc vào lúc 21:00 cùng ngày. Toàn bộ 05 thành viên nhất trí cao với nội dung biên bản và mốc thời gian bàn giao sản phẩm."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "III. ĐÁNH GIÁ CỦA CÁC THÀNH VIÊN"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Sau khi kết thúc cuộc họp trực tuyến trên Google Meet và rà soát tiến độ phối hợp công việc, nhóm đã tiến hành tổng hợp chức năng đảm nhận, ý kiến đóng góp chuyên môn cũng như mức độ hoàn thành nhiệm vụ của từng thành viên trong bảng đánh giá chi tiết dưới đây:"
+   }
+  ]
+ },
+ {
+  "type": "table",
+  "head": [
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "STT"
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "Thành viên"
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "Chức năng đảm nhận"
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "Ý kiến đóng góp chi tiết"
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "Đánh giá mức độ đóng góp"
+      }
+     ]
+    }
+   ]
+  ],
+  "rows": [
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "1"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Nguyễn Tường  Vy"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Người điều hướng"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Định hướng cấu trúc báo cáo theo mạch tự nhiên của một tiết dạy âm nhạc ở tiểu học: soạn ý tưởng & lời bài hát → làm nhạc nền & tiết tấu → trực quan hóa bằng hình ảnh, nhân vật. Nhắc nhở nhóm giữ đúng thời lượng khoảng 1,5 phút/phần để bài trình bày súc tích, đồng thời làm nổi bật vai trò trung tâm của giáo viên khi dùng AI."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Hoàn thành xuất sắc "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " (Chủ động điều phối, giữ nhịp họp hiệu quả)"
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "2"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Vương Thị Hà Vi"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Thuyết trình Phần 1 & Phần 2"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Đề xuất nhấn mạnh rõ ranh giới giữa ý tưởng do AI gợi ý và sự biên tập lại của giáo viên ở Phần 1 để tránh hiểu lầm AI thay thế khâu soạn bài sư phạm. Gợi ý chuyển giọng điệu hào hứng, rõ nhịp ở Phần 2 khi nói về trò chơi vận động và thực hành hát kết hợp vận động."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Hoàn thành xuất sắc "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " (Nội dung mạch lạc, kiểm tra chéo kịch bản tốt)"
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "3"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Nguyễn Tường Vy"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Thuyết trình Phần 3 & Tạo dẫn chứng bằng AI"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Chủ động đảm nhận việc tạo dẫn chứng hình ảnh bằng AI cho Phần 3, tập trung vào nhân vật dẫn dắt (Bạn Nốt Nhạc, Chú Thỏ Giữ Nhịp) và tranh minh họa đối lập tính chất âm nhạc (vui tươi/trầm lắng, nhanh/chậm). Đề xuất phong cách hình ảnh tươi sáng, gần gũi với học sinh tiểu học để các em dễ liên kết với sắc thái âm thanh."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Hoàn thành xuất sắc "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " (Tích cực tạo tư liệu AI & đôn đốc tiến độ chung)"
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "4"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Hoàng Khánh Vy"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Chuẩn bị tài liệu Phần 1"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Đề xuất chuẩn bị ví dụ thực tế theo 3 chủ đề quen thuộc (an toàn giao thông, giữ vệ sinh trường lớp, chào đón năm học mới) kèm phần so sánh trước và sau khi giáo viên chỉnh sửa từ ngữ. Lưu ý phân loại mức độ câu chữ theo khối lớp để làm rõ sự phù hợp với vốn từ từng lứa tuổi."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Hoàn thành tốt "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " (Tư liệu sát thực tế tiểu học, có chiều sâu sư phạm)"
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "5"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Phạm Thị Vy"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Thư ký & Chuẩn bị tài liệu Phần 2"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Với vai trò thư ký, ghi nhận đầy đủ ý kiến thống nhất trong cuộc họp để tổng hợp báo cáo rõ ràng, bám sát chức năng từng người. Với vai trò chuẩn bị tài liệu Phần 2, đề xuất chọn lọc các đoạn nhạc nền có tiết tấu rõ ràng, vui tươi, dễ bắt nhịp cho văn nghệ, trò chơi vận động và kể chuyện theo nhạc."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Hoàn thành xuất sắc "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " (Ghi chép đầy đủ, ứng dụng AI tóm tắt ý chính tốt)"
+     }
+    ]
+   ],
+   [
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "6"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "strong",
+      "c": [
+       {
+        "t": "text",
+        "v": "Ngọc Vy"
+       }
+      ]
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Chuẩn bị tài liệu Phần 3"
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Đề xuất xây dựng bộ mô tả chi tiết ngoại hình nhân vật (Bạn Nốt Nhạc, Chú Thỏ Giữ Nhịp), bối cảnh nhạc cụ và các cặp đối lập tính chất âm nhạc (vui tươi – trầm lắng, nhanh – chậm) làm tài liệu nền cho Phần 3. Nhấn mạnh việc gắn hình ảnh trực tiếp với nội dung bài học để học sinh dễ cảm nhận thay vì chỉ nhìn chữ trên bảng."
+     }
+    ],
+    [
+     {
+      "t": "text",
+      "v": "Hoàn thành tốt "
+     },
+     {
+      "t": "br"
+     },
+     {
+      "t": "text",
+      "v": " (Xây dựng bộ mô tả trực quan rõ ràng, sáng tạo)"
+     }
+    ]
+   ]
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "IV. BÀI HỌC KINH NGHIỆM"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "Thông qua quá trình lập kế hoạch, tổ chức cuộc họp trực tuyến trên Google Meet và phối hợp hoàn thiện bài tập nhóm về ứng dụng AI trong dạy học môn Âm nhạc ở tiểu học, các thành viên đã rút ra những bài học kinh nghiệm thiết thực cho việc tổ chức họp trực tuyến và làm việc nhóm chuyên nghiệp:"
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "▪  1. Chuẩn bị kỹ lưỡng tài liệu và phân bổ thời lượng trước cuộc họp:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Việc thống nhất trước khung kịch bản và chia nhỏ bài trình bày thành 3 phần rõ ràng (mỗi phần khoảng 1,5 phút) trên nhóm Zalo trước giờ họp giúp cuộc họp trên Google Meet đi thẳng vào trọng tâm, tiết kiệm thời gian giải thích lan man và nâng cao chất lượng phản biện."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "▪  2. Phân công rõ ràng vai trò điều phối, thuyết trình và thư ký:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Phân tách rạch ròi vai trò của người điều hướng (Đoàn Phương Vy), người thuyết trình (Hà Vi, Tường Vy), nhóm chuẩn bị tài liệu (Khánh Vy, Phạm Vy, Ngọc Vy) và thư ký (Vy Vy Phạm) giúp buổi họp vận hành trơn tru, tránh chồng chéo công việc và đảm bảo mọi nội dung đều có người chịu trách nhiệm đến cùng."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "▪  3. Kết hợp linh hoạt công cụ họp trực tuyến với kênh trao đổi nhanh:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Trong quá trình làm việc nhóm, việc kết hợp họp trực tuyến trên Google Meet để thảo luận trực tiếp, kiểm tra giọng điệu thuyết trình với kênh nhắn tin Zalo để ghim thông báo, nhắc hạn nộp (17:00 ngày hôm sau) và rà soát bản nháp giúp duy trì sự kết nối liên tục và kỷ luật tiến độ."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "▪  4. Ứng dụng công cụ AI đúng mục đích và đề cao vai trò kiểm duyệt của con người:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Cả trong nội dung chuyên môn (dùng AI gợi ý lời bài hát, tạo nhạc nền, minh họa nhân vật âm nhạc nhưng vẫn giữ vai trò biên tập sư phạm của giáo viên) lẫn trong khâu vận hành nhóm (dùng AI hỗ trợ thư ký tóm tắt ý chính cuộc họp và tạo hình ảnh dẫn chứng), nhóm nhận thức sâu sắc rằng AI là trợ thủ đắc lực giúp tăng tốc độ xử lý công việc, nhưng tư duy chọn lọc và kiểm duyệt của con người mới quyết định chất lượng sản phẩm cuối cùng."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "strong",
+    "c": [
+     {
+      "t": "text",
+      "v": "▪  5. Tinh thần chủ động hỗ trợ và kiểm tra chéo giữa các thành viên:"
+     }
+    ]
+   },
+   {
+    "t": "text",
+    "v": " Sự chủ động tương tác, sẵn sàng nhận phần việc khó (như tạo dẫn chứng hình ảnh AI) và thói quen kiểm tra chéo sản phẩm giữa các thành viên (nhờ bạn cùng nhóm rà soát lại phần nội dung đã chuẩn bị trước khi quay) là yếu tố then chốt tạo nên một tập thể làm việc gắn kết và hiệu quả."
+   }
+  ]
+ },
+ {
+  "type": "p",
+  "c": [
+   {
+    "t": "text",
+    "v": "DẪN CHỨNG CUỘC HỌP"
+   }
+  ],
+  "align": "center"
+ },
+ {
+  "type": "image",
+  "key": "bai-4/01-docx-image",
+  "alt": "",
+  "align": "center"
+ },
+ {
+  "type": "image",
+  "key": "bai-4/02-docx-image",
+  "alt": "",
+  "align": "center"
+ },
+ {
+  "type": "image",
+  "key": "bai-4/03-docx-image",
+  "alt": "",
+  "align": "center"
+ },
+ {
+  "type": "table",
+  "head": [
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "THƯ KÝ CUỘC HỌP "
+      },
+      {
+       "t": "br"
+      },
+      {
+       "t": "text",
+       "v": " (Ghi biên bản và tổng hợp báo cáo)"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " "
+    },
+    {
+     "t": "br"
+    },
+    {
+     "t": "text",
+     "v": " "
+    },
+    {
+     "t": "em",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Phạm Thị Vy"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   [
+    {
+     "t": "strong",
+     "c": [
+      {
+       "t": "text",
+       "v": "NGƯỜI ĐIỀU HƯỚNG "
+      },
+      {
+       "t": "br"
+      },
+      {
+       "t": "text",
+       "v": " (Chủ trì cuộc họp và duyệt nội dung)"
+      }
+     ]
+    },
+    {
+     "t": "text",
+     "v": " "
+    },
+    {
+     "t": "br"
+    },
+    {
+     "t": "text",
+     "v": " "
+    },
+    {
+     "t": "em",
+     "c": [
+      {
+       "t": "strong",
+       "c": [
+        {
+         "t": "text",
+         "v": "Nguyễn Tường Vy"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  ],
+  "rows": []
+ }
+]
