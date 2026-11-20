@@ -56,9 +56,9 @@
   font-family: 'Times New Roman', Georgia, serif;
   font-size: 1.35em;
   font-style: italic;
-  font-weight: 700;
+  font-weight: 500;
   line-height: 1;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
 }
 
 .radio[data-mark='f'] .mark {
@@ -79,7 +79,7 @@
 }
 
 .radio[aria-checked='true'] .mark {
-  color: #ffb3a6;
+  color: #ffd0d6;
 }
 
 /* crescendo hairpin under the switch */

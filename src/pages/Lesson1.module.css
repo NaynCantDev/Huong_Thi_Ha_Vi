@@ -68,7 +68,7 @@
 }
 
 .stageImages > figure {
-  box-shadow: 0 24px 50px -24px rgb(28 33 64 / 0.35);
+  box-shadow: 0 24px 50px -24px rgb(84 46 66 / 0.35);
   border-radius: var(--radius-m);
 }
 

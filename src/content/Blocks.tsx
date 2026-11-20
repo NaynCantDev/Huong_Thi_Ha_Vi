@@ -66,7 +66,7 @@ export function BlockView({ block, index, renderImage }: { block: Block; index: 
 export function Table({ head, rows }: { head: Inline[][]; rows: Inline[][][] }) {
   return (
     <div className={styles.tableWrap} data-scroll-x tabIndex={0} role="region" aria-label="Bảng, cuộn ngang để xem hết">
-      <table className={styles.table}>
+      <table className={styles.table} style={head.length > 4 ? { minWidth: `${head.length * 11}rem` } : undefined}>
         <thead>
           <tr>
             {head.map((cell, i) => (
@@ -81,7 +81,7 @@ export function Table({ head, rows }: { head: Inline[][]; rows: Inline[][][] }) 
             <tr key={r}>
               {row.map((cell, c) => (
                 <td key={c}>
-                  <Inlines nodes={cell} />
+                  <Cell nodes={cell} />
                 </td>
               ))}
             </tr>
@@ -90,6 +90,28 @@ export function Table({ head, rows }: { head: Inline[][]; rows: Inline[][][] }) 
       </table>
     </div>
   )
+}
+
+const RATING_RE = /^(Cao|Khá|Trung bình|Thấp):?$/
+
+/** Table cell; a leading bold reliability rating ("Cao:") gets a pill without changing its text. */
+function Cell({ nodes }: { nodes: Inline[] }) {
+  const [first, ...rest] = nodes
+  if (first?.t === 'strong') {
+    const label = first.c.map((x) => (x.t === 'text' ? x.v : '')).join('').trim()
+    const m = RATING_RE.exec(label)
+    if (m) {
+      return (
+        <>
+          <span className={styles.rating} data-rating={m[1]}>
+            <Inlines nodes={[first]} />
+          </span>
+          <Inlines nodes={rest} />
+        </>
+      )
+    }
+  }
+  return <Inlines nodes={nodes} />
 }
 
 export function Inlines({ nodes }: { nodes: Inline[] }) {

@@ -1,11 +1,11 @@
-import { Seo } from '../components/Seo'
-import { getPage } from '../data/pages'
+import { LessonLayout } from '../components/LessonLayout'
+import { Blocks } from '../content/Blocks'
+import { lessonBody } from '../data/lessons'
 
 export default function Lesson2() {
   return (
-    <>
-      <Seo slug="bai-2" />
-      <h1>{getPage('bai-2').title}</h1>
-    </>
+    <LessonLayout slug="bai-2" wide>
+      <Blocks blocks={lessonBody('bai-2')} />
+    </LessonLayout>
   )
 }

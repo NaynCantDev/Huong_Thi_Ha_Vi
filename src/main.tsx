@@ -1,6 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import '@fontsource-variable/unbounded'
+import '@fontsource-variable/playfair-display'
+import '@fontsource-variable/playfair-display/wght-italic.css'
 import '@fontsource/be-vietnam-pro/latin-400.css'
 import '@fontsource/be-vietnam-pro/latin-400-italic.css'
 import '@fontsource/be-vietnam-pro/latin-600.css'

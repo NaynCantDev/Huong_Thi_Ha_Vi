@@ -2,6 +2,7 @@ import { AnimatePresence, motion, useScroll, useTransform } from 'motion/react'
 import { useCallback, useRef, useState } from 'react'
 import { Link } from 'react-router'
 import { playNote } from '../audio/piano'
+import { Petals } from '../components/Petals'
 import { PianoKeyboard } from '../components/PianoKeyboard'
 import { Seo } from '../components/Seo'
 import { Inlines } from '../content/Blocks'
@@ -85,6 +86,7 @@ export default function Home() {
       <Seo slug="gioi-thieu" />
 
       <section className={styles.hero}>
+        <Petals />
         <div className={styles.heroTop}>
           <div className={styles.nameCol}>
             <div className={styles.staffWrap}>

@@ -5,12 +5,15 @@
 /* ---------- hero ---------- */
 
 .hero {
+  position: relative;
   max-width: var(--content);
   margin: 0 auto;
   padding: clamp(1.5rem, 1rem + 3vw, 3.5rem) var(--gutter) 0;
 }
 
 .heroTop {
+  position: relative;
+  z-index: 1;
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(12rem, 22rem);
   align-items: end;
@@ -72,9 +75,10 @@
 .big {
   display: flex;
   font-size: var(--name-size);
-  font-weight: 700;
+  font-style: italic;
+  font-weight: 400;
   line-height: 1;
-  letter-spacing: -0.045em;
+  letter-spacing: -0.01em;
 }
 
 .letter {
@@ -118,12 +122,14 @@
   object-fit: cover;
   object-position: center 30%;
   border-radius: 999px 999px var(--radius-m) var(--radius-m);
-  border: 1px solid var(--ink-15);
+  border: 6px solid var(--key-white);
+  box-shadow: 0 24px 60px -20px rgb(227 93 106 / 0.45);
   background: var(--key-white);
 }
 
 .keysWrap {
   position: relative;
+  z-index: 1;
   margin-top: var(--space-xl);
 }
 
@@ -185,7 +191,7 @@
 .sectionTitle {
   font-size: var(--step-3);
   font-weight: 600;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
 }
 
 .aboutGrid {
@@ -292,9 +298,9 @@
   grid-template-columns: repeat(6, minmax(0, 1fr));
   list-style: none;
   margin: var(--space-l) 0 0;
-  padding: 0.6rem 0.6rem 0;
-  background: var(--ink);
-  border-radius: var(--radius-m) var(--radius-m) 0 0;
+  padding: 0.6rem;
+  background: linear-gradient(135deg, #f3b7c0, #e8909c);
+  border-radius: var(--radius-m);
 }
 
 .lessonKey {
@@ -305,10 +311,10 @@
   height: 100%;
   min-height: 15rem;
   padding: var(--space-m) var(--space-s) var(--space-l);
-  background: linear-gradient(to bottom, #fff 0%, #fff 85%, #eef0f5 100%);
+  background: linear-gradient(to bottom, #fff 0%, #fff 85%, #fdeef1 100%);
   border-right: 1px solid var(--ink-25);
   border-radius: 0 0 8px 8px;
-  box-shadow: inset 0 -6px 0 #dde1ea;
+  box-shadow: inset 0 -6px 0 #f3d6dd;
   color: var(--ink);
   text-decoration: none;
   transform-origin: top center;
@@ -324,13 +330,13 @@
 .lessonKey:hover,
 .lessonKey:focus-visible {
   transform: scaleY(0.985);
-  box-shadow: inset 0 -2px 0 #dde1ea;
+  box-shadow: inset 0 -2px 0 #f3d6dd;
 }
 
 .lessonNum {
   font-family: var(--font-display);
   font-size: var(--step-1);
-  font-weight: 700;
+  font-weight: 500;
 }
 
 .lessonKey:hover .lessonNum {

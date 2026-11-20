@@ -6,7 +6,7 @@
   grid-template-rows: 1fr auto;
   padding: clamp(0.75rem, 3vw, 2.5rem);
   padding-top: 4rem;
-  background: rgb(28 33 64 / 0.92);
+  background: rgb(84 46 66 / 0.92);
 }
 
 .stage {

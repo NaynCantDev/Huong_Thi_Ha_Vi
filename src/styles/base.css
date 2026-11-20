@@ -11,7 +11,11 @@ html {
 
 body {
   margin: 0;
-  background: var(--paper);
+  background:
+    radial-gradient(60rem 40rem at 85% -10%, var(--blush) 0%, transparent 60%),
+    radial-gradient(50rem 36rem at -10% 30%, var(--blush-soft) 0%, transparent 65%),
+    var(--paper);
+  background-attachment: fixed;
   color: var(--ink);
   font-family: var(--font-body);
   font-size: var(--step-0);
@@ -26,9 +30,9 @@ h2,
 h3,
 h4 {
   font-family: var(--font-display);
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.15;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.005em;
   margin: 0;
   text-wrap: balance;
 }

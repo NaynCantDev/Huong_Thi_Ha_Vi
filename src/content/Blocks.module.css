@@ -99,3 +99,37 @@ ul.list {
 .table tbody tr:last-child td {
   border-bottom: 0;
 }
+
+.table td:first-child,
+.table th:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  background: var(--key-white);
+}
+
+.table th:first-child {
+  background: var(--blush-soft);
+}
+
+.table th {
+  background: var(--blush-soft);
+}
+
+.rating {
+  display: inline-block;
+  padding: 0.15rem 0.7rem;
+  border-radius: 999px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.rating[data-rating='Cao'] {
+  background: var(--phuong-12);
+  color: #b23a47;
+}
+
+.rating[data-rating='Khá'] {
+  background: var(--graphite-15);
+  color: var(--ink);
+}
