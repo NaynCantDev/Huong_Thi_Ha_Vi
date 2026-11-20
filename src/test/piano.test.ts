@@ -139,3 +139,15 @@ describe('mute', () => {
     expect(seen).toEqual([false, true])
   })
 })
+
+describe('user gesture gate', () => {
+  it('stays silent and creates no context before any user activation', async () => {
+    vi.stubGlobal('navigator', { ...navigator, userActivation: { hasBeenActive: false } })
+    const { playNote } = await freshPiano()
+    playNote('C4')
+    expect(AudioCtor).not.toHaveBeenCalled()
+    vi.stubGlobal('navigator', { ...navigator, userActivation: { hasBeenActive: true } })
+    playNote('C4')
+    expect(AudioCtor).toHaveBeenCalledTimes(1)
+  })
+})

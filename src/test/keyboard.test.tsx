@@ -87,3 +87,14 @@ describe('home page', () => {
     expect(container.textContent).toContain('Mục tiêu của Portfolio')
   })
 })
+
+describe('on-screen key activation', () => {
+  it('plays once while Enter is held on a focused key', () => {
+    const onNote = setup()
+    const key = screen.getByRole('button', { name: 'Đô 4' })
+    fireEvent.keyDown(key, { key: 'Enter' })
+    fireEvent.keyDown(key, { key: 'Enter', repeat: true })
+    fireEvent.keyDown(key, { key: 'Enter', repeat: true })
+    expect(onNote).toHaveBeenCalledTimes(1)
+  })
+})

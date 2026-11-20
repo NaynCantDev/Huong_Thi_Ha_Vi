@@ -1,4 +1,4 @@
-import { AnimatePresence, motion } from 'motion/react'
+import { AnimatePresence, MotionConfig, motion } from 'motion/react'
 import { useEffect } from 'react'
 import { Route, Routes, useLocation } from 'react-router'
 import { Footer } from './components/Footer'
@@ -31,7 +31,12 @@ export default function App() {
         Bỏ qua đến nội dung
       </a>
       <Header />
-      <AnimatePresence mode="wait" initial={false}>
+      <MotionConfig reducedMotion="user">
+      <AnimatePresence
+        mode="wait"
+        initial={false}
+        onExitComplete={() => document.getElementById('main')?.focus({ preventScroll: true })}
+      >
         <motion.main
           id="main"
           key={location.pathname}
@@ -55,6 +60,7 @@ export default function App() {
           </Routes>
         </motion.main>
       </AnimatePresence>
+      </MotionConfig>
       <Footer />
     </>
   )

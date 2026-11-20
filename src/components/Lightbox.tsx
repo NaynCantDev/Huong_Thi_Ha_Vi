@@ -37,7 +37,7 @@ export function Lightbox({ open, onClose, imageKey, alt, caption, returnFocusTo,
         e.preventDefault()
         onClose()
       } else if (e.key === 'Tab' && dialogRef.current) {
-        const focusables = dialogRef.current.querySelectorAll<HTMLElement>('button, [href], [tabindex]:not([tabindex="-1"])')
+        const focusables = dialogRef.current.querySelectorAll<HTMLElement>('button:not([disabled]), [href], [tabindex]:not([tabindex="-1"])')
         if (focusables.length === 0) return
         const first = focusables[0]
         const last = focusables[focusables.length - 1]

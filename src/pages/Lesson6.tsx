@@ -1,5 +1,5 @@
 import { motion, useScroll, useSpring } from 'motion/react'
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { LessonLayout } from '../components/LessonLayout'
 import { Blocks, Inlines } from '../content/Blocks'
 import { lessonBody } from '../data/lessons'
@@ -7,8 +7,8 @@ import { useReducedMotion } from '../hooks/useReducedMotion'
 import styles from './Lesson6.module.css'
 
 export default function Lesson6() {
-  const body = lessonBody('bai-6')
-  const sections = body.flatMap((b) => (b.type === 'heading' && b.level === 2 ? [b] : []))
+  const body = useMemo(() => lessonBody('bai-6'), [])
+  const sections = useMemo(() => body.flatMap((b) => (b.type === 'heading' && b.level === 2 ? [b] : [])), [body])
   const [active, setActive] = useState(sections[0]?.id)
   const reduce = useReducedMotion()
   const { scrollYProgress } = useScroll()

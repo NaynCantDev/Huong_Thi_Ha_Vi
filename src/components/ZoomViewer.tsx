@@ -36,13 +36,13 @@ export function ZoomViewer({ imageKey, alt }: { imageKey: string; alt: string })
         />
       </div>
       <div className={styles.controls}>
-        <button type="button" onClick={() => setI((v) => Math.max(0, v - 1))} disabled={i === 0}>
+        <button type="button" onClick={() => setI((v) => Math.max(0, v - 1))} aria-disabled={i === 0}>
           Thu nhỏ
         </button>
-        <button type="button" onClick={() => setI(0)} disabled={i === 0}>
+        <button type="button" onClick={() => setI(0)} aria-disabled={i === 0}>
           Vừa màn hình
         </button>
-        <button type="button" onClick={() => setI((v) => Math.min(STEPS.length - 1, v + 1))} disabled={i === STEPS.length - 1}>
+        <button type="button" onClick={() => setI((v) => Math.min(STEPS.length - 1, v + 1))} aria-disabled={i === STEPS.length - 1}>
           Phóng to
         </button>
       </div>

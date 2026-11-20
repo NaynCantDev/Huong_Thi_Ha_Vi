@@ -42,11 +42,11 @@
   cursor: pointer;
 }
 
-.controls button:hover:not(:disabled) {
+.controls button:hover:not([aria-disabled='true']) {
   background: rgb(255 255 255 / 0.12);
 }
 
-.controls button:disabled {
+.controls button[aria-disabled='true'] {
   opacity: 0.4;
   cursor: default;
 }

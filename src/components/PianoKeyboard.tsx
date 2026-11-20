@@ -105,7 +105,7 @@ export function PianoKeyboard({ from = 'C4', octaves = 2, onNote, className }: P
     }
     const stop = () => {
       dragging.current = false
-      setPressed(new Set())
+      setPressed((s) => (s.size ? new Set() : s))
     }
     window.addEventListener('keydown', down)
     window.addEventListener('keyup', up)
@@ -181,12 +181,13 @@ function KeyButton({ k, pressed, press, release, refs, dragging }: KeyProps) {
       }}
       onPointerLeave={() => release(k.note)}
       onPointerUp={() => release(k.note)}
-      onClick={(e) => {
-        // keyboard activation (Enter/Space) produces a click with detail 0
-        if (e.detail === 0) {
-          press(k.note)
-          setTimeout(() => release(k.note), 160)
-        }
+      onKeyDown={(e) => {
+        if (e.key !== 'Enter' && e.key !== ' ') return
+        e.preventDefault()
+        if (!e.repeat) press(k.note)
+      }}
+      onKeyUp={(e) => {
+        if (e.key === 'Enter' || e.key === ' ') release(k.note)
       }}
     >
       {k.hint && !k.black && (

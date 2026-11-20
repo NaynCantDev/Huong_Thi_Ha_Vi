@@ -86,10 +86,19 @@ export type NoteOptions = { velocity?: number; duration?: number; delay?: number
 
 export function playNote(note: string, opts: NoteOptions = {}): void {
   if (!soundOn) return
+  // Hover before any click/tap/keypress must stay silent (and must not queue notes).
+  const activation = typeof navigator !== 'undefined' ? (navigator as Navigator & { userActivation?: { hasBeenActive: boolean } }).userActivation : undefined
+  if (activation && !activation.hasBeenActive) return
   const e = getEngine()
   if (!e) return
-  const { ctx, out } = e
-  if (ctx.state === 'suspended') void ctx.resume()
+  if (e.ctx.state === 'suspended') {
+    void e.ctx.resume().then(() => schedule(e, note, opts))
+    return
+  }
+  schedule(e, note, opts)
+}
+
+function schedule({ ctx, out }: Engine, note: string, opts: NoteOptions) {
 
   const velocity = Math.min(1, Math.max(0.05, opts.velocity ?? 0.8))
   const duration = opts.duration ?? 1.8
