@@ -1,0 +1,196 @@
+.lesson {
+  max-width: var(--content);
+  margin: 0 auto;
+  padding: var(--space-xl) var(--gutter) 0;
+}
+
+.head {
+  padding-bottom: var(--space-xl);
+  border-bottom: 1px solid var(--ink-15);
+}
+
+.titleRow {
+  display: grid;
+  grid-template-columns: minmax(0, auto) minmax(0, 1fr);
+  align-items: end;
+  gap: var(--space-l) var(--space-xl);
+}
+
+.number {
+  display: grid;
+}
+
+.number h1 {
+  font-size: var(--step-6);
+  font-weight: 700;
+  line-height: 0.9;
+  letter-spacing: -0.03em;
+  white-space: nowrap;
+}
+
+.lead * {
+  text-align: left;
+}
+
+.noteButton {
+  display: block;
+  width: 100%;
+  margin: 0 0 var(--space-s);
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--ink-25);
+  cursor: pointer;
+}
+
+.noteButton:hover {
+  color: var(--graphite);
+}
+
+.staff {
+  display: block;
+  width: 100%;
+  height: clamp(3.2rem, 2.6rem + 2vw, 4.5rem);
+  transition: transform 180ms var(--ease-key);
+}
+
+.noteButton:active .staff {
+  transform: translateY(2px);
+}
+
+.lead {
+  max-width: 44rem;
+  padding-bottom: 0.4em;
+}
+
+.lead p,
+.lead :is(h2, h3, h4) {
+  margin: 0;
+}
+
+.chapter,
+.chapter :is(h2, h3, h4, p) {
+  font-family: var(--font-body);
+  font-size: var(--step-0);
+  font-weight: 400;
+  color: var(--graphite);
+  letter-spacing: 0;
+}
+
+.leadTitle,
+.leadTitle :is(h2, h3, h4, p) {
+  margin-top: 0.35rem;
+  font-family: var(--font-display);
+  font-size: var(--step-2);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+
+.leadTitle + .leadTitle :is(h2, h3, h4, p) {
+  font-size: var(--step-1);
+  font-weight: 500;
+}
+
+.facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  gap: var(--space-m) var(--space-l);
+  margin: var(--space-xl) 0 0;
+}
+
+.facts div {
+  padding-top: var(--space-s);
+  border-top: 2px solid var(--ink);
+}
+
+.facts div:first-child {
+  border-top-color: var(--phuong);
+}
+
+.facts dt {
+  font-family: var(--font-display);
+  font-size: var(--step--1);
+  font-weight: 600;
+}
+
+.facts dd {
+  margin: 0.3rem 0 0;
+  font-size: var(--step--1);
+  color: var(--ink);
+}
+
+.body,
+.bodyWide {
+  padding-top: var(--space-2xl);
+}
+
+.body {
+  max-width: var(--measure);
+}
+
+.pager {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-m);
+  margin-top: var(--space-3xl);
+}
+
+.prev,
+.next {
+  display: grid;
+  gap: 0.25rem;
+  padding: var(--space-m) var(--space-m) var(--space-m);
+  border: 1px solid var(--ink-15);
+  border-radius: var(--radius-m);
+  background: var(--key-white);
+  color: var(--ink);
+  text-decoration: none;
+  transition:
+    border-color 160ms ease,
+    transform 160ms var(--ease-key);
+}
+
+.prev:hover,
+.next:hover {
+  border-color: var(--ink);
+}
+
+.prev:active,
+.next:active {
+  transform: translateY(2px);
+}
+
+.next {
+  grid-column: 2;
+  text-align: right;
+}
+
+.pagerHint {
+  font-size: var(--step--1);
+  color: var(--graphite);
+}
+
+.pagerTitle {
+  font-family: var(--font-display);
+  font-size: var(--step-0);
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+@media (max-width: 52rem) {
+  .titleRow {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 36rem) {
+  .pager {
+    grid-template-columns: 1fr;
+  }
+
+  .next {
+    grid-column: 1;
+  }
+}

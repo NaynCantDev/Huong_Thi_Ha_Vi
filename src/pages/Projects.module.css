@@ -1,0 +1,128 @@
+.page {
+  max-width: var(--content);
+  margin: 0 auto;
+  padding: var(--space-xl) var(--gutter) 0;
+}
+
+.head h1 {
+  font-size: var(--step-6);
+  font-weight: 700;
+  line-height: 0.9;
+  letter-spacing: -0.03em;
+}
+
+.intro {
+  max-width: 46ch;
+  margin-top: var(--space-m);
+  font-size: var(--step-1);
+  line-height: 1.5;
+  color: var(--graphite);
+}
+
+.list {
+  list-style: none;
+  margin: var(--space-2xl) 0 0;
+  padding: 0;
+  border-top: 1px solid var(--ink);
+}
+
+.item {
+  position: relative;
+  border-bottom: 1px solid var(--ink-15);
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 5.5rem 7rem minmax(0, 1fr);
+  align-items: center;
+  gap: var(--space-m) var(--space-l);
+  padding: var(--space-l) 0;
+  color: var(--ink);
+  text-decoration: none;
+  transition: padding-left 260ms var(--ease-out);
+}
+
+.item[data-active] .row {
+  padding-left: var(--space-s);
+}
+
+.staff {
+  width: 100%;
+  height: 3.4rem;
+  color: var(--ink-25);
+}
+
+.num {
+  font-family: var(--font-display);
+  font-size: var(--step-2);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+}
+
+.text {
+  display: grid;
+  gap: 0.2rem;
+  max-width: 40rem;
+}
+
+.chapter {
+  font-size: var(--step--1);
+  color: var(--graphite);
+}
+
+.title {
+  font-family: var(--font-display);
+  font-size: var(--step-1);
+  font-weight: 600;
+  line-height: 1.25;
+  transition: color 160ms ease;
+}
+
+.item[data-active] .title {
+  color: var(--phuong);
+}
+
+.summary {
+  font-size: var(--step--1);
+  color: var(--ink);
+  max-width: 56ch;
+}
+
+.thumb {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  z-index: 2;
+  width: clamp(12rem, 22vw, 18rem);
+  max-height: 14rem;
+  margin-top: -7rem;
+  object-fit: cover;
+  object-position: top left;
+  border: 1px solid var(--ink-15);
+  border-radius: var(--radius-m);
+  box-shadow: 0 18px 40px rgb(28 33 64 / 0.18);
+  pointer-events: none;
+}
+
+@media (max-width: 64rem) {
+  .thumb {
+    display: none;
+  }
+}
+
+@media (max-width: 40rem) {
+  .row {
+    grid-template-columns: 4rem minmax(0, 1fr);
+    gap: var(--space-xs) var(--space-m);
+  }
+
+  .staff {
+    grid-row: span 2;
+    height: 2.8rem;
+  }
+
+  .num {
+    font-size: var(--step-1);
+  }
+}

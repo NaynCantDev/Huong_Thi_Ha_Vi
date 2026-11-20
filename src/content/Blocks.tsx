@@ -1,6 +1,6 @@
 import { Fragment, type ReactNode } from 'react'
 import type { Block, Inline } from './types'
-import { imageSize, imageUrl } from './images'
+import { Figure } from '../components/Figure'
 import styles from './Blocks.module.css'
 
 export type ImageRenderer = (block: Extract<Block, { type: 'image' }>, index: number) => ReactNode
@@ -131,17 +131,4 @@ function inline(n: Inline): ReactNode {
   }
 }
 
-const defaultImage: ImageRenderer = (block) => {
-  const size = imageSize(block.key)
-  return (
-    <img
-      className={styles.image}
-      src={imageUrl(block.key)}
-      alt={block.alt}
-      width={size.width}
-      height={size.height}
-      loading="lazy"
-      decoding="async"
-    />
-  )
-}
+const defaultImage: ImageRenderer = (block) => <Figure imageKey={block.key} alt={block.alt} />
