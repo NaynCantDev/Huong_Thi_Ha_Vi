@@ -1,0 +1,33 @@
+.staff {
+  --line-gap: calc(100% / 7);
+  position: relative;
+  display: block;
+  container-type: size;
+}
+
+.line {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: currentColor;
+}
+
+.ledger {
+  position: absolute;
+  width: calc(100cqh / 7 * 2.4);
+  height: 1px;
+  translate: -50% 0;
+  background: var(--ink);
+}
+
+.head {
+  position: absolute;
+  /* note head ≈ one staff space tall */
+  width: calc(100cqh / 7 * 1.35);
+  height: calc(100cqh / 7 * 0.95);
+  translate: -50% -50%;
+  rotate: -20deg;
+  border-radius: 50%;
+  background: var(--phuong);
+}

@@ -33,7 +33,7 @@ export function LessonLayout({ slug, children, wide }: Props) {
               onClick={() => playNote(page.note)}
               aria-label={`Nghe nốt ${page.solfege} của ${page.title}`}
             >
-              <StaffNote note={page.note} className={styles.staff} width={160} />
+              <StaffNote note={page.note} className={styles.staff} />
             </button>
             <h1>{page.title}</h1>
           </div>

@@ -1,0 +1,102 @@
+.prose {
+  max-width: var(--measure);
+}
+
+.section {
+  margin-top: var(--space-2xl);
+}
+
+.sectionHead p,
+.sectionHead :is(h2, h3, h4) {
+  font-family: var(--font-display);
+  font-size: var(--step-2);
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.sectionHead strong {
+  font-weight: inherit;
+}
+
+.taskGrid {
+  display: grid;
+  gap: var(--space-l);
+  margin-top: var(--space-l);
+}
+
+.task {
+  padding-top: var(--space-m);
+  border-top: 1px solid var(--ink);
+}
+
+.taskTitle {
+  font-weight: 600;
+}
+
+.levels {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--space-m);
+  list-style: none;
+  margin: var(--space-m) 0 0;
+  padding: 0;
+}
+
+.level {
+  position: relative;
+  padding: var(--space-m) var(--space-m) var(--space-m) 3rem;
+  background: var(--key-white);
+  border: 1px solid var(--ink-15);
+  border-radius: var(--radius-m);
+  font-size: var(--step--1);
+}
+
+.level > div > * + * {
+  margin-top: 0.4em;
+}
+
+.level ul {
+  padding-left: 1.1em;
+}
+
+.mark {
+  position: absolute;
+  left: var(--space-m);
+  top: 0.65rem;
+  font-family: 'Times New Roman', Georgia, serif;
+  font-size: 1.6rem;
+  font-style: italic;
+  font-weight: 700;
+  color: var(--phuong);
+  opacity: 0.55;
+}
+
+.level[data-mark='mf'] .mark {
+  opacity: 0.78;
+}
+
+.level[data-mark='f'] .mark {
+  opacity: 1;
+}
+
+.trial {
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  gap: var(--space-l);
+  align-items: start;
+}
+
+.trialText > * + * {
+  margin-top: 0.5em;
+}
+
+.trialText ul {
+  padding-left: 1.1em;
+}
+
+@media (max-width: 56rem) {
+  .levels,
+  .trial {
+    grid-template-columns: 1fr;
+  }
+}

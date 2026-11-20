@@ -44,7 +44,7 @@ export default function Projects() {
                 onMouseEnter={() => enter(l.slug, page.note)}
                 onFocus={() => enter(l.slug, page.note)}
               >
-                <StaffNote note={page.note} className={styles.staff} width={90} />
+                <StaffNote note={page.note} className={styles.staff} />
                 <span className={styles.num}>Bài {l.number}</span>
                 <span className={styles.text}>
                   <span className={styles.chapter}>{l.chapter}</span>

@@ -1,0 +1,125 @@
+.wrap {
+  margin-top: var(--space-xl);
+  padding: var(--space-l);
+  background: var(--key-white);
+  border: 1px solid var(--ink-15);
+  border-radius: var(--radius-m);
+}
+
+.title {
+  font-family: var(--font-display);
+  font-size: var(--step-1);
+  font-weight: 600;
+}
+
+.switch {
+  position: relative;
+  display: inline-flex;
+  align-items: stretch;
+  gap: 0.25rem;
+  margin-top: var(--space-m);
+  padding: 0.3rem;
+  background: var(--paper);
+  border: 1px solid var(--ink-15);
+  border-radius: 999px;
+}
+
+.radio {
+  position: relative;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.45rem;
+  padding: 0.45rem 1rem 0.5rem;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.pill {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  border-radius: 999px;
+  background: var(--ink);
+}
+
+.mark,
+.label {
+  position: relative;
+  z-index: 1;
+  transition: color 160ms ease;
+}
+
+.mark {
+  font-family: 'Times New Roman', Georgia, serif;
+  font-size: 1.35em;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+
+.radio[data-mark='f'] .mark {
+  font-size: 1.55em;
+}
+
+.radio[data-mark='p'] .mark {
+  font-size: 1.15em;
+}
+
+.label {
+  font-size: var(--step--1);
+}
+
+.radio[aria-checked='true'] .mark,
+.radio[aria-checked='true'] .label {
+  color: var(--key-white);
+}
+
+.radio[aria-checked='true'] .mark {
+  color: #ffb3a6;
+}
+
+/* crescendo hairpin under the switch */
+.hairpin {
+  position: absolute;
+  left: 1.25rem;
+  right: 1.25rem;
+  bottom: -0.85rem;
+  height: 0.55rem;
+  background:
+    linear-gradient(to top right, transparent calc(50% - 0.5px), var(--ink-25) 50%, transparent calc(50% + 0.5px)) top / 100% 50% no-repeat,
+    linear-gradient(to bottom right, transparent calc(50% - 0.5px), var(--ink-25) 50%, transparent calc(50% + 0.5px)) bottom / 100% 50% no-repeat;
+}
+
+.panel {
+  margin-top: var(--space-l);
+  animation: panel-in 380ms var(--ease-out);
+}
+
+@keyframes panel-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+}
+
+@media (max-width: 30rem) {
+  .wrap {
+    padding: var(--space-m);
+  }
+
+  .switch {
+    display: flex;
+  }
+
+  .radio {
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.15rem;
+    padding: 0.4rem 0.5rem;
+  }
+}
